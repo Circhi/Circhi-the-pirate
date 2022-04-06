@@ -1,4 +1,7 @@
 # <h1>Circhi-The-Pirate</h1>
+
+![online-piracy](https://user-images.githubusercontent.com/102611155/162018014-92de099d-7422-4331-9b8b-94339393fd5f.jpg)
+
 <h2> This is my first GitHub page, here you'll find 
 all kind of piracy links leading to a free world!!</h2> 
 <h4> Links found on other repositories, Reddit, Telegram, Weboasis and others found by me smushed together, these are the ones that work best, with fastest connection and no lag/region blocking.
