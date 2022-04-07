@@ -33,7 +33,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
 <li> <a href="http://live94today.com/top-streams/" target-"_blank"> 123TV </a> </li>
 <li> <a href="https://ustv247.tv/" target-"_blank"> USTV </a> </li> 
-  <li> <a href="hhttp://time4tv.stream/" target-"_blank"> USTV </a> </li> 
+  <li> <a href="hhttp://time4tv.stream/" target-"_blank"> TVS </a> </li> 
   </ul>
   
   
@@ -44,7 +44,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://main.soccerstreams-100.tv/" target-"_blank"> SoccerStreams </a> </li>
 <li> <a href="https://www.sportsbay.sx/" target-"_blank"> SportsBay </a> </li>
 <li> <a href="https://en.viprow.me/" target-"_blank"> VipRow </a> </li>
-
+  <li> <a href="http://weakstreams.com/" target-"_blank"> VipRow </a> </li>
+ 
 
 </ul>
 
