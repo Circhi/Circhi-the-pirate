@@ -33,7 +33,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
 <li> <a href="http://live94today.com/top-streams/" target-"_blank"> 123TV </a> </li>
 <li> <a href="https://ustv247.tv/" target-"_blank"> USTV </a> </li> 
-  <li> <a href="hhttp://time4tv.stream/" target-"_blank"> TVS </a> </li> 
+<li> <a href="https://time4tv.stream/" target-"_blank"> TVS </a> </li> 
   </ul>
   
   
