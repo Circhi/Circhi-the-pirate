@@ -21,8 +21,10 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://ww1.m4ufree.tv/" target-"_blank"> M4UFree.Tv </a> </li>
   <li> <a href="https://www.worldsrc.net/" target-"_blank"> Worldsrc  </a> (until June 20th)</li>
   <li> <a href="https://www.privatehd.xyz//" target-"_blank"> PrivateHD  </a> </li>
-  <li> <a href="https://www.worldsrc.net/" target-"_blank"> Worldsrc  </a> (until June 20th)</li>
-  
+  <li> <a href="http://www.streamlord.com/" target-"_blank"> StreamLord </a></li>
+    <li> <a href="https://yesmovies.pe/yes.html" target-"_blank"> YesMovies </a></li>
+    <li> <a href="https://batflixmovies.club/" target-"_blank"> BatFlixMovies </a></li>
+   
 <li>Tv series</li>
 <li>live Tv</li>
 <li>Sports </li>
