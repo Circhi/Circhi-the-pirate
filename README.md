@@ -13,7 +13,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
 <h4>Movies/Tv Series</h4>
 <ul style="list-style-type:circle">
-<li> <a href="https://series9.me/" target-"_blank"> Series9 </a> </li>
+<li> <a href="https://series9.me/" target="_blank"> Series9 </a> </li>
 <li> <a href="https://soap2day.ac/" target-"_blank"> Soap2Day </a> </li>
 <li> <a href="https://ww1.123moviesfree.net/" target-"_blank"> 123Movies </a> </li>
 <li> <a href="https://cinefunhd.com/" target-"_blank"> OnlySeries </a> </li>
@@ -53,32 +53,23 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 </ul>  
 <h3>Games/Apks/Software 0$</h3>
+
   <ul style="list-style-type:circle">
-<li> <a href="https://www.reddit.com/r/CrackWatch/" target-"_blank"> Reddit CrackWatch </a> </li>
+  
+  <li> <a href="https://www.reddit.com/r/CrackWatch/" target-"_blank"> Reddit CrackWatch </a> </li>
   <li> <a href="https://getintopc.com/" target-"_blank"> GetIntoPc </a> </li>
-
   <li> <a href="https://oceansofgamess.com/" target-"_blank"> OceanOfGames </a> </li>
-
   <li> <a href="https://fitgirl-repacks.site/" target-"_blank"> FitGirl Repacks </a> </li>
-
   <li> <a href="https://www.1377x.to/popular-games" target-"_blank"> 1337x Games </a> </li>
-
-    <li> <a href="https://www.apkmirror.com/" target-"_blank"> ApkMirror </a> </li>
-  
+  <li> <a href="https://www.apkmirror.com/" target-"_blank"> ApkMirror </a> </li>
   <li> <a href="https://apkfab.com/" target-"_blank"> ApkFab </a> </li>
-    <li> <a href="  https://skidrowrepacks.com/" target-"_blank"> SkidRow Games </a> </li>
-    <li> <a href="https://apkcombo.com/"> ApkCombo </a> </li>
-    <li> <a href="https://ftuapps.dev/?1" target-"_blank"> FtuApps </a> </li>
-      <li> <a href="https://sanet.st/" target-"_blank"> SoftArchive </a> </li>
-      <li> <a href="https://dlandroid.com/" target-"_blank"> DlaAdroid </a> </li>
-
-      <li> <a href="https://julio.hackyouriphone.org/" target-"_blank"> Ios </a> </li>
-        <li> <a href="https://cydiageek.yourepo.com/" target-"_blank"> Ios </a> </li>
-
-  
-
-
-  
+  <li> <a href="https://skidrowrepacks.com/" target-"_blank"> SkidRow Games </a> </li>
+  <li> <a href="https://apkcombo.com/"> ApkCombo </a> </li>
+  <li> <a href="https://ftuapps.dev/?1" target-"_blank"> FtuApps </a> </li>
+  <li> <a href="https://sanet.st/" target-"_blank"> SoftArchive </a> </li>
+  <li> <a href="https://dlandroid.com/" target-"_blank"> DlaAdroid </a> </li>
+  <li> <a href="https://julio.hackyouriphone.org/" target-"_blank"> Ios </a> </li>
+  <li> <a href="https://cydiageek.yourepo.com/" target-"_blank"> Ios </a> </li>
 </ul>
 <li>Books </li>
 <h4>Music </h4>
