@@ -47,6 +47,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="http://live94today.com/top-streams/" target-"_blank"> 123TV </a> </li>
 <li> <a href="https://ustv247.tv/" target-"_blank"> USTV </a> </li> 
 <li> <a href="https://time4tv.stream/" target-"_blank"> TVS </a> </li> 
+  <li> <a href="https://ihavenotv.com/" target-"_blank"> Documentaries  </a> </li> 
   </ul>
   
   
@@ -70,6 +71,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://oceansofgamess.com/" target-"_blank"> OceanOfGames </a> </li>
 <li> <a href="https://fitgirl-repacks.site/" target-"_blank"> FitGirl Repacks </a> </li>
 <li> <a href="https://www.1377x.to/popular-games" target-"_blank"> 1337x Games </a> </li>
+  <li> <a href="https://shareappscrack.com/" target-"_blank"> ShareAppsCrack </a> </li>
+
 <h5>Android</h5>
 <li> <a href="https://www.apkmirror.com/" target-"_blank"> ApkMirror </a> </li>
 <li> <a href="https://apkfab.com/" target-"_blank"> ApkFab </a> </li>
@@ -84,13 +87,23 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <h5> Hacking</h5>
 <ul style="list-style-type:circle">
 
-<li> <a href="nulled.to"_blank">  </a> </li>
-<li> <a href="ckacked.io_blank">  </a> </li>
+<li> <a href="nulled.to"_blank"> Nulled </a> </li>
+<li> <a href="cracked.io"_blank"> Cracked </a> </li>
+<li> <a href="https://nsaneforums.com/" target="_blank"> NSAg </a> </li>
+<li> <a href="https://massgrave.dev/" target="_blank"> MAS</a> </li>
 
 </ul>
 <li>Books </li>
 <h4>Music </h4>
 
-<li>Usless Websites but still cool though </li>
+<li>Miscellaneous</li>
+<li> <a href="https://www.typingstudy.com/lesson" target="_blank"> Typing</a> </li>
+
+  <li> <a href="https://www.mooval.de/" target="_blank"> Moove Spotify Songs </a> </li>
+
+  <li> <a href="https://slider.kz//" target="_blank"> Download MP3s</a> </li>
+<li> <a href="reddit.com/r/Piracy/wiki/guides/private_trackers#wiki_.25BA_what_are_the_benefits_of_private_trackers_when_compared_to_public_trackers.3F" target="_blank"> What are Trakers</a> </li>
+<li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction" target="_blank"> Kodi</a> </li>
+<li> <a href="https://trackerslist.com/#/" target="_blank"> Traker</a> </li>
 
 
