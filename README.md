@@ -33,9 +33,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://www.stream4free.live/" target="_blank"> Stream4Free </a> </li>
 <li> <a href="https://kimcartoon.li/" target="_blank"> KimCartoon </a> </li>
 <li> <a href="https://9anime.to/home" target="_blank">9Anime </a> </li>
-
-
-  </ul>
+  
+</ul>
 
 
 
@@ -54,12 +53,17 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <ul style="list-style-type:circle">
 
 <li> <a href="https://en.viprow.me/" target"_blank"> VipRow </a> </li>
-<li> <a href="https://main.soccerstreams-100.tv/" target"_blank"> SoccerStreams </a> </li>
+<li> <a href="https://main.soccerstreams-100.tv/"> target"_blank"> SoccerStreams </a> </li>
 <li> <a href="https://www.sportsbay.sx/" target"_blank"> SportsBay </a> </li>
 <li> <a href="https://live.f1stream.me/" target"_blank"> F1 </a> </li>
 <li> <a href="http://weakstreams.com/" target"_blank"> WeakStream </a> </li>
-<li> <a href"https://reddit2.soccerstreamlinks.com/" target"_blank> Soccerstream <a/> </li>
- 
+<li> <a href="https://reddit2.soccerstreamlinks.com"> target"_blank> Soccerstream <a/> </li>
+<li> <a href="https://reddit.istream2watch.com/" target="_blank">Stream2Watch </a> </li>
+<li> <a href="https://live10.footybite.cc/" target="_blank">Footybite </a> </li>
+<li> <a href="https://streamgoto.me/a/" target="_blank">StreamGoTo </a> </li>
+<li> <a href="https://projectlive.info/" target="_blank">ProjectLive </a> </li>
+<li> <a href="https://tezgoal.com/menu-tezgoal/sports/football/" target="_blank">TezGoal </a> </li>
+
 
 </ul>  
 <h3>Games/Apks/Software 0$</h3>
@@ -72,6 +76,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://fitgirl-repacks.site/" target"_blank"> FitGirl Repacks </a> </li>
 <li> <a href="https://www.1377x.to/popular-games" target"_blank"> 1337x Games </a> </li>
   <li> <a href="https://shareappscrack.com/" target"_blank"> ShareAppsCrack </a> </li>
+  <li> <a href="https://filecr.com/en/?id=96126488640 target_blank"> Win/Android </a> </li>
 
 <h5>Android</h5>
 <li> <a href="https://www.apkmirror.com/" target"_blank"> ApkMirror </a> </li>
@@ -100,26 +105,65 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://massgrave.dev/" target="_blank"> MAS</a> </li>
 
 </ul>
-<li>Books </li>
+
 <h4>Music </h4>
-<h3> Tools </h3>
-<li> <a href="" target="_blank"> </a> </li>
+  
+  
+  <h3> Torrents </h3>
+  <li> <a href="https://snowfl.com/" target="_blank">Torrent Search Engine</a> </li>
+  <li> <a href="https://proxyrarbg.org/torrents.php" target="_blank">Rar</a> </li>
+  <li> <a href="https://yts.unblockit.nz/" target="_blank">YTS</a> </li>
+  <li> <a href="https://ww3.torlook.info/" target="_blank">ToorLook </a> </li>
+  <li> <a href="https://www.1377x.to/" target="_blank">1377x</a> </li>
+  <li> <a href="https://thepiratebay.zone/" target="_blank">The PirateBay </a> </li>
+  <li> <a href="https://www.torrentleech.org/" target="_blank">TorrentLeech</a> </li>
+  <li> <a href="https://abtorrents.me/" target="_blank">ABTorrents</a> </li>
+  <li> <a href="http://magnet2torrent.com/" target="_blank">Magnet2Torrent </a> </li>
+  <li> <a href="https://justpaste.it/eurekaddl" target="_blank">Eurekaddl </a> </li>
   <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
+
+  
+  
+  <h3> Tools </h3>
+
+  <li> <a href="https://downforeveryoneorjustme.com/" target="_blank">Is It Down</a> </li>
+  <li> <a href="https://www.noisli.com/playlists" target="_blank">Noisli</a> </li>
+  <li> <a href="https://mail.tm/" target="_blank">Temp Mail</a></li>
+  <li> <a href="https://www.wolframalpha.com/" target="_blank">Math</a> </li>
+  <li> <a href="https://copychar.cc/" target="_blank">CopyChar</a> </li>
+  <li> <a href="https://www.tvguide.com/" target="_blank"> Tv Guide</a> </li>
+  <li> <a href="https://screenapp.io/#/dashboard" target="_blank">Screen Recorder </a> </li>
+  <li> <a href="https://screenshot.guru/" target="_blank">Screenshots </a> </li>
+  <li> <a href="https://www.random.org/" target="_blank">Random</a> </li>
+  <li> <a href="https://obscurifymusic.com/home" target="_blank">Obscure Music</a> </li>
+  <li> <a href="https://www.instructables.com/" target="_blank">Build DIY </a> </li>
+  <li> <a href="https://carrd.co/" target="_blank"> Carrd</a> </li>
+  <li> <a href="https://www.manualslib.com/" target="_blank">Manuals</a> </li>
+  <li> <a href="https://infogram.com/app/#/library" target="_blank">Make Graphs</a> </li>
+  <li> <a href="https://magazinelib.com/" target="_blank">Magazine Download</a> </li>
+  <li> <a href="https://scenetime.com/" target="_blank">SceneTime</a> </li>
+  <li> <a href="https://www.bingeclock.com/" target="_blank">how Long To Binge? </a> </li>
+  <li> <a href="https://www.freecoursesonline.me/?1" target="_blank">Courses </a> </li>
+
+  
+  <h3> Spotify Tools </h3>
+  
+  <li> <a href="http://www.spotmybackup.com/" target="_blank">Spotify Backup</a> </li>
+  <li> <a href="https://spotifyunchained.com/" target="_blank">New Releases</a> </li>
+  <li> <a href="https://skiley.net/" target="_blank">Playlist Maker</a> </li>
   <li> <a href="" target="_blank"> </a> </li>
   <li> <a href="" target="_blank"> </a> </li>
   <li> <a href="" target="_blank"> </a> </li>
   
   
-<li>Miscellaneous</li>
+  
+  
+  
+  
+<h3>Miscellaneous</h3>
 <li> <a href="https://www.typingstudy.com/lesson" target="_blank"> Typing</a> </li>
+  <li> <a href="https://www.comicextra.com/" target="_blank">Read Comics Online</a> </li>
+
 
   <li> <a href="https://www.mooval.de/" target="_blank"> Moove Spotify Songs </a> </li>
 
