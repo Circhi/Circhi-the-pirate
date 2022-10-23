@@ -87,8 +87,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://www.luckypatchers.com/download/"> LuckyPatcher </a> </li>
 <li> <a href="https://apkmodhub.in/" target"_blank"> AkpHub </a> </li>
 <li> <a href="https://moddingunited.xyz/" target"_blank"> ModdingUnited <a/> </li>
-<li> <a> modcombo.com target"_blank" > Modcombo </a> </li>
-<li> <a> https://play.google.com/store/apps/details?id=com.ext.ui target_"blank"> ApkExtractor </a> </li>
+<li> <a href="modcombo.com target"_blank" > Modcombo </a> </li>
+<li> <a href="https://play.google.com/store/apps/details?id=com.ext.ui target_"blank"> ApkExtractor </a> </li>
 <h5>IOS</h5>
 <li> <a href="https://julio.hackyouriphone.org/" target"_blank"> Ios </a> </li>
 <li> <a href="https://cydiageek.yourepo.com/" target"_blank"> Ios </a> </li>
