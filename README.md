@@ -9,7 +9,6 @@ When a site is down or its domain changes, you'll find the new site here.
 There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!</h4>
 
 <h3> Streaming Sites </h3>
-
   
 <h4>Movies/Tv Series</h4>
 <ul style="list-style-type:circle">
@@ -103,7 +102,22 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 </ul>
 <li>Books </li>
 <h4>Music </h4>
-
+<h3> Tools </h3>
+<li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  <li> <a href="" target="_blank"> </a> </li>
+  
+  
 <li>Miscellaneous</li>
 <li> <a href="https://www.typingstudy.com/lesson" target="_blank"> Typing</a> </li>
 
