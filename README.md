@@ -14,16 +14,16 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <h4>Movies/Tv Series</h4>
 <ul style="list-style-type:circle">
 <li> <a href="https://series9.me/" target="_blank"> Series9 </a> </li>
-<li> <a href="https://soap2day.ac/" target-"_blank"> Soap2Day </a> </li>
-<li> <a href="https://ww1.123moviesfree.net/" target-"_blank"> 123Movies </a> </li>
-<li> <a href="https://cinefunhd.com/" target-"_blank"> OnlySeries </a> </li>
-<li> <a href="https://cmovies.online/" target-"_blank"> Cmovies </a> </li>
-<li> <a href="https://ww1.m4ufree.tv/" target-"_blank"> M4UFree.Tv </a> </li>
-<li> <a href="https://www.worldsrc.net/" target-"_blank"> Worldsrc  </a> (until June 20th)</li>
-<li> <a href="https://www.privatehd.xyz//" target-"_blank"> PrivateHD  </a> </li>
-<li> <a href="http://www.streamlord.com/" target-"_blank"> StreamLord </a></li>
-<li> <a href="https://yesmovies.pe/yes.html" target-"_blank"> YesMovies </a></li>
-<li> <a href="https://batflixmovies.club/" target-"_blank"> BatFlixMovies </a></li>
+<li> <a href="https://soap2day.ac/" target"_blank"> Soap2Day </a> </li>
+<li> <a href="https://ww1.123moviesfree.net/" target"_blank"> 123Movies </a> </li>
+<li> <a href="https://cinefunhd.com/" target"_blank"> OnlySeries </a> </li>
+<li> <a href="https://cmovies.online/" target"_blank"> Cmovies </a> </li>
+<li> <a href="https://ww1.m4ufree.tv/" target"_blank"> M4UFree.Tv </a> </li>
+<li> <a href="https://www.worldsrc.net/" target"_blank"> Worldsrc  </a> (until June 20th)</li>
+<li> <a href="https://www.privatehd.xyz//" target"_blank"> PrivateHD  </a> </li>
+<li> <a href="http://www.streamlord.com/" target"_blank"> StreamLord </a></li>
+<li> <a href="https://yesmovies.pe/yes.html" target"_blank"> YesMovies </a></li>
+<li> <a href="https://batflixmovies.club/" target"_blank"> BatFlixMovies </a></li>
    
   </ul>
 <h4> Cartoons/Animes</h4>
@@ -44,21 +44,22 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <ul style="list-style-type:circle">
   
   
-<li> <a href="http://live94today.com/top-streams/" target-"_blank"> 123TV </a> </li>
-<li> <a href="https://ustv247.tv/" target-"_blank"> USTV </a> </li> 
-<li> <a href="https://time4tv.stream/" target-"_blank"> TVS </a> </li> 
-  <li> <a href="https://ihavenotv.com/" target-"_blank"> Documentaries  </a> </li> 
+<li> <a href="http://live94today.com/top-streams/" target"_blank"> 123TV </a> </li>
+<li> <a href="https://ustv247.tv/" target"_blank"> USTV </a> </li> 
+<li> <a href="https://time4tv.stream/" target"_blank"> TVS </a> </li> 
+  <li> <a href="https://ihavenotv.com/" target"_blank"> Documentaries  </a> </li> 
   </ul>
   
   
 <h4>Sports </h4>
   <ul style="list-style-type:circle">
 
-<li> <a href="https://en.viprow.me/" target-"_blank"> VipRow </a> </li>
-<li> <a href="https://main.soccerstreams-100.tv/" target-"_blank"> SoccerStreams </a> </li>
-<li> <a href="https://www.sportsbay.sx/" target-"_blank"> SportsBay </a> </li>
-<li> <a href="https://live.f1stream.me/" target-"_blank"> F1 </a> </li>
-<li> <a href="http://weakstreams.com/" target-"_blank"> WeakStream </a> </li>
+<li> <a href="https://en.viprow.me/" target"_blank"> VipRow </a> </li>
+<li> <a href="https://main.soccerstreams-100.tv/" target"_blank"> SoccerStreams </a> </li>
+<li> <a href="https://www.sportsbay.sx/" target"_blank"> SportsBay </a> </li>
+<li> <a href="https://live.f1stream.me/" target"_blank"> F1 </a> </li>
+<li> <a href="http://weakstreams.com/" target"_blank"> WeakStream </a> </li>
+<li> <a href"https://reddit2.soccerstreamlinks.com/" target"_blank> Soccerstream <a/> </li>
  
 
 </ul>  
@@ -66,29 +67,36 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 <ul style="list-style-type:circle">
 <h5> Pc </h5>
-<li> <a href="https://www.reddit.com/r/CrackWatch/" target-"_blank"> Reddit CrackWatch </a> </li>
-<li> <a href="https://getintopc.com/" target-"_blank"> GetIntoPc </a> </li>
-<li> <a href="https://oceansofgamess.com/" target-"_blank"> OceanOfGames </a> </li>
-<li> <a href="https://fitgirl-repacks.site/" target-"_blank"> FitGirl Repacks </a> </li>
-<li> <a href="https://www.1377x.to/popular-games" target-"_blank"> 1337x Games </a> </li>
-  <li> <a href="https://shareappscrack.com/" target-"_blank"> ShareAppsCrack </a> </li>
+<li> <a href="https://www.reddit.com/r/CrackWatch/" target"_blank"> Reddit CrackWatch </a> </li>
+<li> <a href="https://getintopc.com/" target"_blank"> GetIntoPc </a> </li>
+<li> <a href="https://oceansofgamess.com/" target"_blank"> OceanOfGames </a> </li>
+<li> <a href="https://fitgirl-repacks.site/" target"_blank"> FitGirl Repacks </a> </li>
+<li> <a href="https://www.1377x.to/popular-games" target"_blank"> 1337x Games </a> </li>
+  <li> <a href="https://shareappscrack.com/" target"_blank"> ShareAppsCrack </a> </li>
 
 <h5>Android</h5>
-<li> <a href="https://www.apkmirror.com/" target-"_blank"> ApkMirror </a> </li>
-<li> <a href="https://apkfab.com/" target-"_blank"> ApkFab </a> </li>
-<li> <a href="https://skidrowrepacks.com/" target-"_blank"> SkidRow Games </a> </li>
+<li> <a href="https://www.apkmirror.com/" target"_blank"> ApkMirror </a> </li>
+<li> <a href="https://apkfab.com/" target"_blank"> ApkFab </a> </li>
+<li> <a href="https://skidrowrepacks.com/" target"_blank"> SkidRow Games </a> </li>
 <li> <a href="https://apkcombo.com/"> ApkCombo </a> </li>
-<li> <a href="https://ftuapps.dev/?1" target-"_blank"> FtuApps </a> </li>
-<li> <a href="https://sanet.st/" target-"_blank"> SoftArchive </a> </li>
-<li> <a href="https://dlandroid.com/" target-"_blank"> DlaAdroid </a> </li>
+<li> <a href="https://ftuapps.dev/?1" target"_blank"> FtuApps </a> </li>
+<li> <a href="https://sanet.st/" target"_blank"> SoftArchive </a> </li>
+<li> <a href="https://apkmody.io/" target"_blank"> ApkMody </a> </li>
+<li> <a href="https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0" target"_blank"> Google Search </a> </li>
+<li> <a href="https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0" target"_blank"> Another Google Search </a> </li>
+<li> <a href="https://www.luckypatchers.com/download/"> LuckyPatcher </a> </li>
+<li> <a href="https://apkmodhub.in/" target"_blank"> AkpHub </a> </li>
+<li> <a href="https://moddingunited.xyz/" target"_blank"> ModdingUnited <a/> </li>
+<li> <a> modcombo.com target"_blank" > Modcombo </a> </li>
+<li> <a> https://play.google.com/store/apps/details?id=com.ext.ui target_"blank"> ApkExtractor </a> </li>
 <h5>IOS</h5>
-<li> <a href="https://julio.hackyouriphone.org/" target-"_blank"> Ios </a> </li>
-<li> <a href="https://cydiageek.yourepo.com/" target-"_blank"> Ios </a> </li>
-<h5> Hacking</h5>
+<li> <a href="https://julio.hackyouriphone.org/" target"_blank"> Ios </a> </li>
+<li> <a href="https://cydiageek.yourepo.com/" target"_blank"> Ios </a> </li>
+<h5> Hacking</h5> 
 <ul style="list-style-type:circle">
 
-<li> <a href="nulled.to"_blank"> Nulled </a> </li>
-<li> <a href="cracked.io"_blank"> Cracked </a> </li>
+<li> <a href="nulled.to" target"_blank"> Nulled </a> </li>
+<li> <a href="cracked.io"target"_blank"> Cracked </a> </li>
 <li> <a href="https://nsaneforums.com/" target="_blank"> NSAg </a> </li>
 <li> <a href="https://massgrave.dev/" target="_blank"> MAS</a> </li>
 
