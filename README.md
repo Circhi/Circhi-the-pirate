@@ -113,13 +113,20 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://hackr.io/">Hackr.io</a> </li> 
 <li> <a href="https://freecourseudemy.com/" >FreeUdemy</a> </li>
 <li> <a href="https://www.freecodecamp.org" >FreeCodeCamp </a> </li>
+<li> <a href="https://www.freecoursesonline.me/?1" >Free Courses</a> </li>
+<li> <a href="https://www.typelit.io/" > Type Novels</a> </li>
+<li> <a href="https://www.freecoursesonline.me/?1">Courses </a> </li>
+<li> <a href="https://www.typingstudy.com/lesson"> Typing</a> </li>
+<li> <a href="https://www.freecoursesonline.me/?1" >Some Other Free Courses </a> </li>
+
+  
   <!-- 
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
+
+
+
+
+
+
   <li> <a href="" > </a> </li>
   <li> <a href="" > </a> </li>
   <li> <a href="" > </a> </li>
@@ -141,7 +148,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://justpaste.it/eurekaddl">Eurekaddl </a> </li>
   <li> <a href="https://trackerslist.com/#/"> Traker</a> </li>
   <li> <a href="reddit.com/r/Piracy/wiki/guides/private_trackers#wiki_.25BA_what_are_the_benefits_of_private_trackers_when_compared_to_public_trackers.3F"> What are Trakers</a> </li>
-
+  <li> <a href="https://piratebayproxy.info/"> Piratebay Proxies</a> </li>
   
 ## Tools
 
@@ -162,7 +169,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
   <li> <a href="https://scenetime.com/"">SceneTime</a> </li>
   <li> <a href="https://www.bingeclock.com/">how Long To Binge? </a> </li>
-  <li> <a href="https://www.freecoursesonline.me/?1">Courses </a> </li>
+
   <li> <a href="https://cloudhiker.net/explore"> Find New Websites </a> </li>
   <li> <a href="https://wheregoes.com/">Link Checker </a> </li>
    <li> <a href="https://www.textcleanr.com/#">Text Cleaner</a> </li>
@@ -179,12 +186,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   --> 
  
   
-<h3>Miscellaneous</h3>
+###Miscellaneous
 
-<li> <a href="https://www.typingstudy.com/lesson"> Typing</a> </li>
-  <li> <a href="https://www.comicextra.com/">Read Comics Online</a> </li>
-
- 
+<li> <a href="https://myviptuto.com/" >My Vip Tuto </a> </li>
 <li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction"> Kodi</a> </li>
-
+<li> <a href="https://www.cogipas.com/webrip-meaning-torrent-filenames/" >Torrent Names</a> </li>
 
