@@ -111,8 +111,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 <li> <a href="https://gigacourse.com/?1">GigaCourse </a> </li>
 <li> <a href="https://hackr.io/">Hackr.io</a> </li> 
-<li> https://freecourseudemy.com/<a href="" >FreeUdemy</a> </li>
-<li>https://www.freecodecamp.org/<a href="" >FreeCodeCamp </a> </li>
+<li> <a href="https://freecourseudemy.com/" >FreeUdemy</a> </li>
+<li> <a href="https://www.freecodecamp.org" >FreeCodeCamp </a> </li>
   <!-- 
   <li> <a href="" > </a> </li>
   <li> <a href="" > </a> </li>
