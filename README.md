@@ -11,7 +11,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
 ### Movies/Tv Series
 
-<li> <a href:"https://series9.me/"> Series9 </a> </li>
+<li> <a href="https://series9.me/"> Series9 </a> </li>
 <li> <a href="https://soap2day.ac/"> Soap2Day </a> </li>
 <li> <a href="https://ww1.123moviesfree.net/"> 123Movies </a> </li>
 <li> <a href="https://cinefunhd.com/"> OnlySeries </a> </li>
