@@ -11,7 +11,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
 ### Movies/Tv Series
 
-[Series9](https://series9.me/)
+<li> <a href:"https://series9.me/"> Series9 </a> </li>
 <li> <a href="https://soap2day.ac/"> Soap2Day </a> </li>
 <li> <a href="https://ww1.123moviesfree.net/"> 123Movies </a> </li>
 <li> <a href="https://cinefunhd.com/"> OnlySeries </a> </li>
@@ -27,21 +27,21 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ### Cartoons/Animes
 
   
-<li> <a href="https://kisscartoon.nz/" target="_blank"> KissCartoon </a> </li>
-<li> <a href="https://zoro.to/" target="_blank"> Zoro </a> </li>
-<li> <a href="https://www.stream4free.live/" target="_blank"> Stream4Free </a> </li>
-<li> <a href="https://kimcartoon.li/" target="_blank"> KimCartoon </a> </li>
-<li> <a href="https://9anime.to/home" target="_blank">9Anime </a> </li>
+<li> <a href="https://kisscartoon.nz/"> KissCartoon </a> </li>
+<li> <a href="https://zoro.to/"> Zoro </a> </li>
+<li> <a href="https://www.stream4free.live/"> Stream4Free </a> </li>
+<li> <a href="https://kimcartoon.li/"> KimCartoon </a> </li>
+<li> <a href="https://9anime.to/home">9Anime </a> </li>
   
-</ul>
 
--[hi](spacex.com)
+
+[hi](https://www.spacex.com/)
 ### Live Tv
  
-<li> <a href="http://live94today.com/top-streams/" target"_blank"> 123TV </a> </li>
-<li> <a href="https://ustv247.tv/" target"_blank"> USTV </a> </li> 
-<li> <a href="https://time4tv.stream/" target"_blank"> TVS </a> </li> 
-<li> <a href="https://ihavenotv.com/" target"_blank"> Documentaries  </a> </li> 
+<li> <a href="http://live94today.com/top-streams/"> 123TV </a> </li>
+<li> <a href="https://ustv247.tv/"> USTV </a> </li> 
+<li> <a href="https://time4tv.stream/"> TVS </a> </li> 
+<li> <a href="https://ihavenotv.com/"> Documentaries  </a> </li> 
 
   
 ### Sports 
@@ -61,7 +61,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
   
 ## Games/Apks/Software 0$
-{text-align: center;}
+
 ### Pc
 <li> <a href="https://www.reddit.com/r/CrackWatch/"> Reddit CrackWatch </a> </li>
 <li> <a href="https://getintopc.com/"> GetIntoPc </a> </li>
@@ -76,116 +76,115 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://apkfab.com/"> ApkFab </a> </li>
 <li> <a href="https://skidrowrepacks.com/"> SkidRow Games </a> </li>
 <li> <a href="https://apkcombo.com/"> ApkCombo </a> </li>
-<li> <a href="https://ftuapps.dev/?1" target"_blank"> FtuApps </a> </li>
-<li> <a href="https://sanet.st/" target"_blank"> SoftArchive </a> </li>
-<li> <a href="https://apkmody.io/" target"_blank"> ApkMody </a> </li>
-<li> <a href="https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0" target"_blank"> Google Search </a> </li>
-<li> <a href="https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0" target"_blank"> Another Google Search </a> </li>
+<li> <a href="https://ftuapps.dev/?1"> FtuApps </a> </li>
+<li> <a href="https://sanet.st/"> SoftArchive </a> </li>
+<li> <a href="https://apkmody.io/"> ApkMody </a> </li>
+<li> <a href="https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0"> Google Search </a> </li>
+<li> <a href="https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0"> Another Google Search </a> </li>
 <li> <a href="https://www.luckypatchers.com/download/"> LuckyPatcher </a> </li>
-<li> <a href="https://apkmodhub.in/" target"_blank"> AkpHub </a> </li>
-<li> <a href="https://moddingunited.xyz/" target"_blank"> ModdingUnited <a/> </li>
-<li> <a href="modcombo.com target"_blank" > Modcombo </a> </li>
-<li> <a href="https://play.google.com/store/apps/details?id=com.ext.ui target_"blank"> ApkExtractor </a> </li>
+<li> <a href="https://apkmodhub.in/"> AkpHub </a> </li>
+<li> <a href="https://moddingunited.xyz/"> ModdingUnited <a/> </li>
+<li> <a href="modcombo.com" > Modcombo </a> </li>
+<li> <a href="https://play.google.com/store/apps/details?id=com.ext.ui> ApkExtractor </a> </li>
 
 
 ### IOS
-<li> <a href="https://julio.hackyouriphone.org/" target"_blank"> Ios </a> </li>
-<li> <a href="https://cydiageek.yourepo.com/" target"_blank"> Ios </a> </li>
+
+<li> <a href="https://julio.hackyouriphone.org/"> Ios </a> </li>
+<li> <a href="https://cydiageek.yourepo.com/"> Ios </a> </li>
   
   
 ## Hacking
-<ul style="list-style-type:circle">
-<li> <a href="nulled.to" target"_blank"> Nulled </a> </li>
-<li> <a href="cracked.io"target"_blank"> Cracked </a> </li>
-<li> <a href="https://nsaneforums.com/" target="_blank"> NSAg </a> </li>
-<li> <a href="https://massgrave.dev/" target="_blank"> MAS</a> </li>
-</ul>
+
+<li> <a href="nulled.to"> Nulled </a> </li>
+<li> <a href="cracked.io"> Cracked </a> </li>
+<li> <a href="https://nsaneforums.com/"> NSAg </a> </li>
+<li> <a href="https://massgrave.dev/""> MAS</a> </li>
+
 
 ## Music 
-<li> <a href="https://slider.kz//" target="_blank"> Download MP3s</a> </li>
+
+<li> <a href="https://slider.kz//"> Download MP3s</a> </li>
  
  
 ## Learning
-<li> <a href="https://gigacourse.com/?1" target="_blank">GigaCourse </a> </li>
-<li> <a href="https://hackr.io/" target="_blank">Hackr.io</a> </li>
-<li> <a href="" target="_blank"> </a> </li>
-<li> <a href="" target="_blank"> </a> </li>
-<li> <a href="" target="_blank"> </a> </li>
-<li> <a href="" target="_blank"> </a> </li>
-<li> <a href="" target="_blank"> </a> </li>
-<li> <a href="" target="_blank"> </a> </li>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+<li> <a href="https://gigacourse.com/?1">GigaCourse </a> </li>
+<li> <a href="https://hackr.io/">Hackr.io</a> </li>
+<!--  
+<li> <a href="" > </a> </li>
+ <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  <li> <a href="" > </a> </li>
+  -->
   
   ## Torrents
   
-  <li> <a href="https://snowfl.com/" target="_blank">Torrent Search Engine</a> </li>
-  <li> <a href="https://proxyrarbg.org/torrents.php" target="_blank">Rar</a> </li>
-  <li> <a href="https://yts.unblockit.nz/" target="_blank">YTS</a> </li>
-  <li> <a href="https://ww3.torlook.info/" target="_blank">ToorLook </a> </li>
-  <li> <a href="https://www.1377x.to/" target="_blank">1377x</a> </li>
-  <li> <a href="https://thepiratebay.zone/" target="_blank">The PirateBay </a> </li>
-  <li> <a href="https://www.torrentleech.org/" target="_blank">TorrentLeech</a> </li>
-  <li> <a href="https://abtorrents.me/" target="_blank">ABTorrents</a> </li>
-  <li> <a href="http://magnet2torrent.com/" target="_blank">Magnet2Torrent </a> </li>
-  <li> <a href="https://justpaste.it/eurekaddl" target="_blank">Eurekaddl </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-
+  <li> <a href="https://snowfl.com/">Torrent Search Engine</a> </li>
+  <li> <a href="https://proxyrarbg.org/torrents.php">Rar</a> </li>
+  <li> <a href="https://yts.unblockit.nz/">YTS</a> </li>
+  <li> <a href="https://ww3.torlook.info/">ToorLook </a> </li>
+  <li> <a href="https://www.1377x.to/">1377x</a> </li>
+  <li> <a href="https://thepiratebay.zone/">The PirateBay </a> </li>
+  <li> <a href="https://www.torrentleech.org/">TorrentLeech</a> </li>
+  <li> <a href="https://abtorrents.me/">ABTorrents</a> </li>
+  <li> <a href="http://magnet2torrent.com/">Magnet2Torrent </a> </li>
+  <li> <a href="https://justpaste.it/eurekaddl">Eurekaddl </a> </li>
+  <li> <a href="https://trackerslist.com/#/"> Traker</a> </li>
+  <li> <a href="reddit.com/r/Piracy/wiki/guides/private_trackers#wiki_.25BA_what_are_the_benefits_of_private_trackers_when_compared_to_public_trackers.3F"> What are Trakers</a> </li>
 
   
 ## Tools
 
-  <li> <a href="https://downforeveryoneorjustme.com/" target="_blank">Is It Down</a> </li>
-  <li> <a href="https://www.noisli.com/playlists" target="_blank">Noisli</a> </li>
-  <li> <a href="https://mail.tm/" target="_blank">Temp Mail</a></li>
-  <li> <a href="https://www.wolframalpha.com/" target="_blank">Math</a> </li>
-  <li> <a href="https://copychar.cc/" target="_blank">CopyChar</a> </li>
-  <li> <a href="https://www.tvguide.com/" target="_blank"> Tv Guide</a> </li>
-  <li> <a href="https://screenapp.io/#/dashboard" target="_blank">Screen Recorder </a> </li>
-  <li> <a href="https://screenshot.guru/" target="_blank">Screenshots </a> </li>
-  <li> <a href="https://www.random.org/" target="_blank">Random</a> </li>
-  <li> <a href="https://obscurifymusic.com/home" target="_blank">Obscure Music</a> </li>
-  <li> <a href="https://www.instructables.com/" target="_blank">Build DIY </a> </li>
-  <li> <a href="https://carrd.co/" target="_blank"> Carrd</a> </li>
-  <li> <a href="https://www.manualslib.com/" target="_blank">Manuals</a> </li>
-  <li> <a href="https://infogram.com/app/#/library" target="_blank">Make Graphs</a> </li>
-  <li> <a href="https://magazinelib.com/" target="_blank">Magazine Download</a> </li>
-  <li> <a href="https://scenetime.com/" target="_blank">SceneTime</a> </li>
-  <li> <a href="https://www.bingeclock.com/" target="_blank">how Long To Binge? </a> </li>
-  <li> <a href="https://www.freecoursesonline.me/?1" target="_blank">Courses </a> </li>
-  <li> <a href:"https://cloudhiker.net/explore" > Find New Websites </a> </li>
+  <li> <a href="https://downforeveryoneorjustme.com/">Is It Down</a> </li>
+  <li> <a href="https://www.noisli.com/playlists">Noisli</a> </li>
+  <li> <a href="https://mail.tm/">Temp Mail</a></li>
+  <li> <a href="https://www.wolframalpha.com/">Math</a> </li>
+  <li> <a href="https://copychar.cc/">CopyChar</a> </li>
+  <li> <a href="https://www.tvguide.com/"> Tv Guide</a> </li>
+  <li> <a href="https://screenapp.io/#/dashboard">Screen Recorder </a> </li>
+  <li> <a href="https://screenshot.guru/">Screenshots </a> </li>
+  <li> <a href="https://www.random.org/">Random</a> </li>
+  <li> <a href="https://obscurifymusic.com/home">Obscure Music</a> </li>
+  <li> <a href="https://www.instructables.com/">Build DIY </a> </li>
+  <li> <a href="https://carrd.co/"> Carrd</a> </li>
+  <li> <a href="https://www.manualslib.com/" >Manuals</a> </li>
+  <li> <a href="https://infogram.com/app/#/library">Make Graphs</a> </li>
+  <li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
+  <li> <a href="https://scenetime.com/"">SceneTime</a> </li>
+  <li> <a href="https://www.bingeclock.com/">how Long To Binge? </a> </li>
+  <li> <a href="https://www.freecoursesonline.me/?1">Courses </a> </li>
+  <li> <a href="https://cloudhiker.net/explore"> Find New Websites </a> </li>
   
   
   
  ## Spotify Tools 
   
-  <li> <a href="http://www.spotmybackup.com/" target="_blank">Spotify Backup</a> </li>
-  <li> <a href="https://spotifyunchained.com/" target="_blank">New Releases</a> </li>
-  <li> <a href="https://skiley.net/" target="_blank">Playlist Maker</a> </li>
+  <li> <a href="http://www.spotmybackup.com/">Spotify Backup</a> </li>
+  <li> <a href="https://spotifyunchained.com/">New Releases</a> </li>
+  <li> <a href="https://skiley.net/">Playlist Maker</a> </li>
   <li> <a href="https://www.mooval.de/" target="_blank"> Moove Spotify Songs </a> </li>
+  <!-- 
+ <li> <a href="" target="_blank"> </a> </li>
   <li> <a href="" target="_blank"> </a> </li>
-  <li> <a href="" target="_blank"> </a> </li>
-  
-  
-  
-  
-  
+  --> 
+ 
   
 <h3>Miscellaneous</h3>
-<li> <a href="https://www.typingstudy.com/lesson" target="_blank"> Typing</a> </li>
-  <li> <a href="https://www.comicextra.com/" target="_blank">Read Comics Online</a> </li>
+
+<li> <a href="https://www.typingstudy.com/lesson"> Typing</a> </li>
+  <li> <a href="https://www.comicextra.com/">Read Comics Online</a> </li>
 
  
-<li> <a href="reddit.com/r/Piracy/wiki/guides/private_trackers#wiki_.25BA_what_are_the_benefits_of_private_trackers_when_compared_to_public_trackers.3F" target="_blank"> What are Trakers</a> </li>
-<li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction" target="_blank"> Kodi</a> </li>
-<li> <a href="https://trackerslist.com/#/" target="_blank"> Traker</a> </li>
+<li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction"> Kodi</a> </li>
 
 
