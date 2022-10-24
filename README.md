@@ -22,7 +22,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="http://www.streamlord.com/"> StreamLord </a></li>
 <li> <a href="https://yesmovies.pe/yes.html"> YesMovies </a></li>
 <li> <a href="https://batflixmovies.club/"> BatFlixMovies </a></li>
-   
+<li> <a href="https://topdocumentaryfilms.com/"> Documentaries </a> </li>
   
 ### Cartoons/Animes
 
@@ -100,7 +100,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="cracked.io"> Cracked </a> </li>
 <li> <a href="https://nsaneforums.com/"> NSAg </a> </li>
 <li> <a href="https://massgrave.dev/""> MAS</a> </li>
-
+  <li> <a href="https://guidedhacking.com/">Hackgames </a> </li>
 
 ## Music 
 
@@ -110,10 +110,10 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ## Learning
 
 <li> <a href="https://gigacourse.com/?1">GigaCourse </a> </li>
-<li> <a href="https://hackr.io/">Hackr.io</a> </li>
-<!--  
-<li> <a href="" > </a> </li>
- <li> <a href="" > </a> </li>
+<li> <a href="https://hackr.io/">Hackr.io</a> </li> 
+<li> https://freecourseudemy.com/<a href="" >FreeUdemy</a> </li>
+<li>https://www.freecodecamp.org/<a href="" >FreeCodeCamp </a> </li>
+  <!-- 
   <li> <a href="" > </a> </li>
   <li> <a href="" > </a> </li>
   <li> <a href="" > </a> </li>
@@ -164,8 +164,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://www.bingeclock.com/">how Long To Binge? </a> </li>
   <li> <a href="https://www.freecoursesonline.me/?1">Courses </a> </li>
   <li> <a href="https://cloudhiker.net/explore"> Find New Websites </a> </li>
-  
-  
+  <li> <a href="https://wheregoes.com/">Link Checker </a> </li>
+   <li> <a href="https://www.textcleanr.com/#">Text Cleaner</a> </li>
   
  ## Spotify Tools 
   
@@ -174,7 +174,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://skiley.net/">Playlist Maker</a> </li>
   <li> <a href="https://www.mooval.de/" target="_blank"> Moove Spotify Songs </a> </li>
   <!-- 
- <li> <a href="" target="_blank"> </a> </li>
+
   <li> <a href="" target="_blank"> </a> </li>
   --> 
  
