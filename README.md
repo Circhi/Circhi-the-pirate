@@ -179,14 +179,13 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="http://www.spotmybackup.com/">Spotify Backup</a> </li>
   <li> <a href="https://spotifyunchained.com/">New Releases</a> </li>
   <li> <a href="https://skiley.net/">Playlist Maker</a> </li>
-  <li> <a href="https://www.mooval.de/" target="_blank"> Moove Spotify Songs </a> </li>
+  <li> <a href="https://www.mooval.de/"> Moove Spotify Songs </a> </li>
   <!-- 
-
   <li> <a href="" target="_blank"> </a> </li>
   --> 
  
   
-###Miscellaneous
+## Miscellaneous 
 
 <li> <a href="https://myviptuto.com/" >My Vip Tuto </a> </li>
 <li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction"> Kodi</a> </li>
