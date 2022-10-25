@@ -15,10 +15,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://soap2day.ac/"> Soap2Day </a> </li>
 <li> <a href="https://ww1.123moviesfree.net/"> 123Movies </a> </li>
 <li> <a href="https://cinefunhd.com/"> OnlySeries </a> </li>
-<li> <a href="https://cmovies.online/"> Cmovies </a> </li>
+<li> <a href="[https://cmovies.online/](http://cmovies.so/)"> Cmovies </a> </li>
 <li> <a href="https://ww1.m4ufree.tv/"> M4UFree.Tv </a> </li>
 <li> <a href="https://www.worldsrc.net/"> Worldsrc  </a> </li>
-<li> <a href="https://www.privatehd.xyz//"> PrivateHD  </a> </li>
 <li> <a href="http://www.streamlord.com/"> StreamLord </a></li>
 <li> <a href="https://yesmovies.pe/yes.html"> YesMovies </a></li>
 <li> <a href="https://batflixmovies.club/"> BatFlixMovies </a></li>
