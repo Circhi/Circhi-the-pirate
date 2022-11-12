@@ -170,9 +170,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://carrd.co/"> Carrd</a> </li>
   <li> <a href="https://www.manualslib.com/" >Manuals</a> </li>
   <li> <a href="https://infogram.com/app/#/library">Make Graphs</a> </li>
-  <li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
+  
   <li> <a href="https://scenetime.com/"">SceneTime</a> </li>
-  <li> <a href="https://www.bingeclock.com/">how Long To Binge? </a> </li>
+  <li> <a href="https://www.bingeclock.com/">How Long To Binge? </a> </li>
 
   <li> <a href="https://cloudhiker.net/explore"> Find New Websites </a> </li>
   <li> <a href="https://wheregoes.com/">Link Checker </a> </li>
@@ -185,13 +185,40 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   <li> <a href="https://skiley.net/">Playlist Maker</a> </li>
   <li> <a href="https://www.mooval.de/"> Moove Spotify Songs </a> </li>
   <!-- 
-  <li> <a href="" target="_blank"> </a> </li>
+<li> <a href="" target="_blank"> </a> </li>
   --> 
  
+ 
+ ## Books & Audiobooks
+ 
+### Books
+<li> <a href="https://www.pdfdrive.com/""> PDFDrive</a>  </li>
+<li> <a href="https://libgen.fun/">Libgen </a> </li>
+<li> <a href="http://ebook3000.com/"> Ebook3000</a> </li>
+<li> <a href="https://ebookee.com/">Ebookee</a> </li>
+<li> <a href="https://getcomics.info/">GetComics </a> </li>
+<li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
+<li> <a href="https://forum.mobilism.me/index.php?sid=cb17bd934ed4096f06414d9b5a87130c">Mobilism </a> </li>
+<li> <a href="https://pdfget.com/"> </a>PDFGet </li>
+<!--
+<li> <a href=""> </a> </li>
+<li> <a href=""> </a> </li>
+--> 
+  
+### Audiobooks
+
+<li> <a href="https://tokybook.com/" >TokyBook </a> </li>
+  <!--
+<li> <a href="" > </a> </li>
+<li> <a href="" > </a> </li>
+<li> <a href="" > </a> </li>
+<li> <a href="" > </a> </li>
+<li> <a href="" > </a> </li>
+ -->
   
 ## Miscellaneous 
 
 <li> <a href="https://myviptuto.com/" >My Vip Tuto </a> </li>
 <li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction"> Kodi</a> </li>
 <li> <a href="https://www.cogipas.com/webrip-meaning-torrent-filenames/" >Torrent Names</a> </li>
-
+<li> <a href="https://sanet.st/" > Soft Archive</a> </li>
