@@ -199,7 +199,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://getcomics.info/">GetComics </a> </li>
 <li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
 <li> <a href="https://forum.mobilism.me/index.php?sid=cb17bd934ed4096f06414d9b5a87130c">Mobilism </a> </li>
-<li> <a href="https://pdfget.com/"> </a>PDFGet </li>
+<li> <a href="https://pdfget.com/"> PDFGet</a> </li>
 <!--
 <li> <a href=""> </a> </li>
 <li> <a href=""> </a> </li>
