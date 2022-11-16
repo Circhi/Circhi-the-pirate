@@ -32,17 +32,26 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 (#contents) Movies/Tv Series
 
-<li> <a href="https://series9.me/"> Series9 </a> </li>
-<li> <a href="https://soap2day.ac/"> Soap2Day </a> </li>
-<li> <a href="https://ww1.123moviesfree.net/"> 123Movies </a> </li>
-<li> <a href="https://cinefunhd.com/"> OnlySeries </a> </li>
+
+- [Series9](https://series9.me/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
+- [Soap2day](https://soap2day.ac) One of the best streaming sites out, IMHO.
+- [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
+- [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.
+-[Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
+-[]()
+-[]()
+-[]()
+-[]()
+
+
+
+
 <li> <a href="http://cmovies.so/"> Cmovies </a> </li>
 <li> <a href="https://ww1.m4ufree.tv/"> M4UFree.Tv </a> </li>
 <li> <a href="https://www.worldsrc.net/"> Worldsrc  </a> </li>
 <li> <a href="http://www.streamlord.com/"> StreamLord </a></li>
 <li> <a href="https://yesmovies.pe/yes.html"> YesMovies </a></li>
 <li> <a href="https://batflixmovies.club/"> BatFlixMovies </a></li>
-<li> <a href="https://topdocumentaryfilms.com/"> Documentaries </a> </li>
   
 ## [↑](#contents) Find Courses
 ### Cartoons/Animes
