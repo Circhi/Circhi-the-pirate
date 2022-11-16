@@ -7,9 +7,30 @@
 When a site is down or its domain changes, you'll find the new site here.
 There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!</h4>
 
+# INDEX
+-  [Streaming Sites](#streaming-sites) 
+    - [Movies/Tv Series](#movies-/-tv-series)
+-   -[VPN Guides and Tutorials](#vpn-guides-and-tutorials)
+-   -[VPN Guides and Tutorials](#vpn-guides-and-tutorials)
+
+-  [Games/Apks/Softwares for Free](#Games-Apks-Softwares-for-Free)
+
+-[]
+
+-[]
+
+-[]
+
+-[]
+
+
+
+
+
+
 ## Streaming Sites
-  
-### Movies/Tv Series
+
+(#contents) Movies/Tv Series
 
 <li> <a href="https://series9.me/"> Series9 </a> </li>
 <li> <a href="https://soap2day.ac/"> Soap2Day </a> </li>
@@ -23,6 +44,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://batflixmovies.club/"> BatFlixMovies </a></li>
 <li> <a href="https://topdocumentaryfilms.com/"> Documentaries </a> </li>
   
+## [↑](#contents) Find Courses
 ### Cartoons/Animes
 
   
@@ -64,7 +86,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
           
 
   
-## Games/Apks/Software 0$
+## Games/Apks/Softwares for Free
 
 ### Pc
 <li> <a href="https://www.reddit.com/r/CrackWatch/"> Reddit CrackWatch </a> </li>
