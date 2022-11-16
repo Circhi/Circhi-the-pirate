@@ -10,8 +10,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 # INDEX
 -  [Streaming Sites](#streaming-sites) 
     - [Movies/Tv Series](#movies-/-tv-series)
--   -[VPN Guides and Tutorials](#vpn-guides-and-tutorials)
--   -[VPN Guides and Tutorials](#vpn-guides-and-tutorials)
+    - [Cartoons/Animes](#cartoons-animes)
+   - [Live Tv](#live-tv)
+ 
 
 -  [Games/Apks/Softwares for Free](#Games-Apks-Softwares-for-Free)
 
@@ -37,7 +38,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 - [Soap2day](https://soap2day.ac) One of the best streaming sites out, IMHO.
 - [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
 - [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.
--[Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
+- [Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
 -[]()
 -[]()
 -[]()
@@ -53,7 +54,6 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://yesmovies.pe/yes.html"> YesMovies </a></li>
 <li> <a href="https://batflixmovies.club/"> BatFlixMovies </a></li>
   
-## [↑](#contents) Find Courses
 ### Cartoons/Animes
 
   
