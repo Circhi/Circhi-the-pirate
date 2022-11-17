@@ -10,13 +10,15 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 # INDEX
 -  [Streaming Sites](#streaming-sites) 
     - [Movies/Tv Series](#movies-/-tv-series)
-    - [Cartoons/Animes](#cartoons-animes)
-   - [Live Tv](#live-tv)
+    - [Cartoons/Animes](#cartoons-/-animes)
+    - [Live Tv](#live-tv)
  
 
 -  [Games/Apks/Softwares for Free](#Games-Apks-Softwares-for-Free)
-
--[]
+    - []()
+    - []()
+    - []()
+    
 
 -[]
 
@@ -31,50 +33,56 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 ## Streaming Sites
 
-(#contents) Movies/Tv Series
-
-
 - [Series9](https://series9.me/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
 - [Soap2day](https://soap2day.ac) One of the best streaming sites out, IMHO.
 - [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
 - [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.
 - [Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
--[]()
--[]()
--[]()
--[]()
+- [IHaveNoTv](https://ihavenotv.com/") Website for Documentaries
+- [Cmovies](http://cmovies.so/) Cmovies is a mirror of 123 Movies, when one is down, try the other 
+- [M4UFree.Tv](https://ww1.m4ufree.tv/)
+- [Worldsrc](https://www.worldsrc.net/)
+- [StreamLord](http://www.streamlord.com/)
+- [YesMovies](https://yesmovies.pe/yes.html) Another 123 Movies like site
+- [BatFlixMovies](https://batflixmovies.club/">)
 
 
 
 
-<li> <a href="http://cmovies.so/"> Cmovies </a> </li>
-<li> <a href="https://ww1.m4ufree.tv/"> M4UFree.Tv </a> </li>
-<li> <a href="https://www.worldsrc.net/"> Worldsrc  </a> </li>
-<li> <a href="http://www.streamlord.com/"> StreamLord </a></li>
-<li> <a href="https://yesmovies.pe/yes.html"> YesMovies </a></li>
-<li> <a href="https://batflixmovies.club/"> BatFlixMovies </a></li>
-  
 ### Cartoons/Animes
 
-  
-<li> <a href="https://kisscartoon.nz/"> KissCartoon </a> </li>
-<li> <a href="https://zoro.to/"> Zoro </a> </li>
-<li> <a href="https://www.stream4free.live/"> Stream4Free </a> </li>
-<li> <a href="https://kimcartoon.li/"> KimCartoon </a> </li>
-<li> <a href="https://9anime.to/home">9Anime </a> </li>
-  
+
+- [KissCartoon](kisscartoon.city) Very nice website with a big cartoon database 
+- [Kimcartoon](https://kimcartoon.li/) Almost identical to KissCartoon
 
 
-[hi](https://www.spacex.com/)
 ### Live Tv
  
-<li> <a href="http://live94today.com/top-streams/"> 123TV </a> </li>
-<li> <a href="https://ustv247.tv/"> USTV </a> </li> 
-<li> <a href="https://time4tv.stream/"> TVS </a> </li> 
-<li> <a href="https://ihavenotv.com/"> Documentaries  </a> </li> 
+- [Stream4Free](ttps://www.stream4free.live/) Live TV for Tv Series
+- [USTV](https://ustv247.tv/) Name says it all
+- [Time4TV](https://time4tv.stream/) Live Tv with multiple tv channels across the World
+- [USTVGo](https://ustvgo.tv/) Us channels
+- [123Tv](http://123tvnow.com/) 123 TV is a really nice Us TV based website
+
 
   
 ### Sports 
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 <li> <a href="https://en.viprow.me/"> VipRow </a> </li>
 <li> <a href="https://main.soccerstreams-100.tv/"> SoccerStreams </a> </li>
@@ -123,7 +131,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 <li> <a href="https://play.google.com/store/apps/details?id=com.ext.ui"> ApkExtractor </a> </li>
 
 
-## IOS
+### IOS
 
 <li> <a href="https://julio.hackyouriphone.org/"> Ios </a> </li>
 <li> <a href="https://cydiageek.yourepo.com/"> Ios </a> </li>
