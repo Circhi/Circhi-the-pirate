@@ -68,17 +68,17 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
 ### Sports 
 
-- [VipRow](https://en.viprow.me/)
-- [SoccerStream](https://main.soccerstreams-100.tv/)
-- [SportsBay](https://www.sportsbay.sx/)
-- [F1Stream](https://live.f1stream.me/)
-- [WeakStreams](http://weakstreams.com)
-- [SoccerStream](https://reddit2.soccerstreamlinks.com)
+- [VipRow](https://en.viprow.me/) now always working but still pretty good 
+- [SoccerStream](https://main.soccerstreams-100.tv/) I personaly think this is one the best option for streaming 
+- [SportsBay](https://www.sportsbay.sx/) All kind of sports here and multiple lenguages as wel 
+- [F1Stream](https://live.f1stream.me/) Streaming site for reces 
+- [WeakStreams](http://weakstreams.com) The best option for streaming, first 2 links are the fastest ones, usually  
+- [SoccerStream](https://reddit2.soccerstreamlinks.com) Mirror sito to Weakstreams
 - [Stream2Watch](https://reddit.istream2watch.com/)
 - [FootyBite](https://live10.footybite.cc/)
-- [StreamGoTo](https://streamgoto.me/a/)
-- [ProjectLive](https://projectlive.info/)
-- [TezGoal](https://tezgoal.com/menu-tezgoal/sports/football/)
+- [StreamGoTo](https://streamgoto.me/a/) An alternative for Weakstreams 
+- [ProjectLive](https://projectlive.info/) Also itlian commentary here 
+- [TezGoal](https://tezgoal.com/menu-tezgoal/sports/football/) It was the best one but it appears to be down, leaving the link here in case it starts working again 
 - [Raceday](https://raceday.watch/#sessions)
 - [StarLive](https://starlive.xyz/)
 - [123Streamscar](https://dd12streams.com/schedule)
