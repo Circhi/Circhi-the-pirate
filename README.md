@@ -12,7 +12,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
     - [Movies/Tv Series](#movies-/-tv-series)
     - [Cartoons/Animes](#cartoons-/-animes)
     - [Live Tv](#live-tv)
- 
+    - [Sports](#sports)
 
 -  [Games/Apks/Softwares for Free](#Games-Apks-Softwares-for-Free)
     - []()
