@@ -20,7 +20,10 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
     - [IOS](#IOS)
     - [Hacking](#Hacking)
     - [Music](#Music)
-    - [Torrents](#Torrents)
+
+
+
+-   [Torrents](#Torrents)
 
 -[]
 
