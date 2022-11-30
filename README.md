@@ -8,7 +8,7 @@ When a site is down or its domain changes, you'll find the new site here.
 There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!</h4>
 
 # INDEX
--  [Streaming Sites](#streaming-sites) 
+-  [Streaming](#streaming) 
     - [Movies/Tv Series](#movies-/-tv-series)
     - [Cartoons/Animes](#cartoons-/-animes)
     - [Live Tv](#live-tv)
@@ -33,7 +33,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 
 
-## Streaming Sites
+## Streaming 
+
+### Streaming Sites 
 
 - [Series9](https://series9.me/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
 - [Soap2day](https://soap2day.ac) One of the best streaming sites out, IMHO.
@@ -184,18 +186,18 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   ## Torrents
   
   
-  -[RARGB](https://proxyrarbg.org/torrents.php) In my opinion, alongside with YTS the best torrent site
-  -[YTS](https://yts.unblockit.nz)
-  -[1337x](https://www.1377x.to) Another good torrent site
-  -[ThePirateBay](https://thepiratebay.zone/) Who doesn't know The pirate Bay?
-  -[PirateBayProxy](https://piratebayproxy.info/) Proxy sites for The Pirate Bay 
-  -[TorrentLeech](https://www.torrentleech.org/) Private torrent tracker 
-  -[ABTorrents](https://abtorrents.me) Private torrent tracker for audiobooks and books
-  -[Magnet2Torrent](http://magnet2torrent.com) Transform magnet URLs into .torrent file 
-  -[TrackList](https://trackerslist.com/#/) A site with almost every torrent tracker 
-  -[Eurekaddl](https://justpaste.it/eurekaddl) Download italian 
-  -[Trackers](https://tinyurl.com/43kywa6u) What are Trackers??? REDDIT
-  -[Snowfl](https://snowfl.com/) Torrent search engine
+  - [RARGB](https://proxyrarbg.org/torrents.php) In my opinion, alongside with YTS the best torrent site
+  - [YTS](https://yts.unblockit.nz)
+  - [1337x](https://www.1377x.to) Another good torrent site
+  - [ThePirateBay](https://thepiratebay.zone/) Who doesn't know The pirate Bay?
+  - [PirateBayProxy](https://piratebayproxy.info/) Proxy sites for The Pirate Bay 
+  - [TorrentLeech](https://www.torrentleech.org/) Private torrent tracker 
+  - [ABTorrents](https://abtorrents.me) Private torrent tracker for audiobooks and books
+  - [Magnet2Torrent](http://magnet2torrent.com) Transform magnet URLs into .torrent file 
+  - [TrackList](https://trackerslist.com/#/) A site with almost every torrent tracker 
+  - [Eurekaddl](https://justpaste.it/eurekaddl) Download italian 
+  - [Trackers](https://tinyurl.com/43kywa6u) What are Trackers??? REDDIT
+  - [Snowfl](https://snowfl.com/) Torrent search engine
   
   
  
