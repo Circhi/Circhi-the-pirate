@@ -15,9 +15,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
     - [Sports](#sports)
 
 -  [Games/Apks/Softwares for Free](#Games-Apks-Softwares-for-Free)
-    - []()
-    - []()
-    - []()
+    - [Pc](#Pc)
+    - [Android](#Android)
+    - [IOS](#IOS)
     
 
 -[]
@@ -45,7 +45,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 - [StreamLord](http://www.streamlord.com/)
 - [YesMovies](https://yesmovies.pe/yes.html) Another 123 Movies like site
 - [BatFlixMovies](https://batflixmovies.club/">)
-
+- [WtfMovies](https://fmovies.wtf/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
 
 
 
@@ -92,36 +92,50 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ## Games/Apks/Softwares for Free
 
 ### Pc
-<li> <a href="https://www.reddit.com/r/CrackWatch/"> Reddit CrackWatch </a> </li>
-<li> <a href="https://getintopc.com/"> GetIntoPc </a> </li>
-<li> <a href="https://oceansofgamess.com/"> OceanOfGames </a> </li>
-<li> <a href="https://fitgirl-repacks.site/"> FitGirl Repacks </a> </li>
-<li> <a href="https://www.1377x.to/popular-games"> 1337x Games </a> </li>
-<li> <a href="https://shareappscrack.com/"> ShareAppsCrack </a> </li>
-<li> <a href="https://filecr.com/en/?id=96126488640"> Win/Android </a> </li>
+
+
+- [GetIntoPc](https://getintopc.com/) INHO the best site for downloading every kind of premium pc app for free
+- [OceanOfGames](https://oceansofgamess.com/) Same thing as GetIntoPc but for all kind of games
+- [FileCr](https://filecr.com/en/?id=96126488640") Both Android and Windows apps
+- [1337xGames](https://www.1377x.to/popular-games) 1337x torrents for Games
+- [FitGirl](https://fitgirl-repacks.site/) Games repacked in small size
+- [CrackWatch](https://www.reddit.com/r/CrackWatch/) Subreddit for Fitgirl releases 
+
+
+
+
+
 
 ### Android
-<li> <a href="https://www.apkmirror.com/"> ApkMirror </a> </li>
-<li> <a href="https://apkfab.com/"> ApkFab </a> </li>
-<li> <a href="https://skidrowrepacks.com/"> SkidRow Games </a> </li>
-<li> <a href="https://apkcombo.com/"> ApkCombo </a> </li>
-<li> <a href="https://ftuapps.dev/?1"> FtuApps </a> </li>
-<li> <a href="https://sanet.st/"> SoftArchive </a> </li>
-<li> <a href="https://apkmody.io/"> ApkMody </a> </li>
-<li> <a href="https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0"> Google Search </a> </li>
-<li> <a href="https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0"> Another Google Search </a> </li>
-<li> <a href="https://www.luckypatchers.com/download/"> LuckyPatcher </a> </li>
-<li> <a href="https://apkmodhub.in/"> AkpHub </a> </li>
-<li> <a href="https://moddingunited.xyz/"> ModdingUnited <a/> </li>
-<li> <a href="modcombo.com" > Modcombo </a> </li>
-<li> <a href="https://play.google.com/store/apps/details?id=com.ext.ui"> ApkExtractor </a> </li>
 
+
+- [ApkMirror](https://www.apkmirror.com/) Games and apps cracked 
+- [ApkFab](https://apkfab.com/)
+- [ModdingUnited](https://moddingunited.xyz/)
+- [ApkCombo](https://apkcombo.com/)
+- [FTUApps](https://ftuapps.dev/?1)
+- [ModCombo](modcombo.com)
+- [ApkHub](https://apkmodhub.in)
+- [SoftArchive](https://sanet.st)
+- [ApkMody](https://apkmody.io)
+- [LuckyPatcher](https://www.luckypatchers.com/download/)
+- [SkidRowgames](https://skidrowrepacks.com/)
+- [Search](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0) This is a search engine for apks 
+- [Search 2](https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0) Same as the one before 
+- [ApkExtractor](https://play.google.com/store/apps/details?id=com.ext.ui) Some apks need this app in order to run 
+- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) My drive shared folder for Revanced, Spotify and other stuff 
+- []()
+- []()
+- []()
 
 ### IOS
 
-<li> <a href="https://julio.hackyouriphone.org/"> Ios </a> </li>
-<li> <a href="https://cydiageek.yourepo.com/"> Ios </a> </li>
-  
+
+- [julio](https://julio.hackyouriphone.org/)
+- [Altstore](https://altstore.io/)
+- [Cydiageek](https://cydiageek.yourepo.com/)
+- [Guide For Altstore]()
+
   
 ## Hacking
 
