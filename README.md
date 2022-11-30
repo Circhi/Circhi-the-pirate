@@ -9,7 +9,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 # INDEX
 -  [Streaming](#streaming) 
-    - [Movies/Tv Series](#movies-/-tv-series)
+    - [Streaming Sites(#Streaming-/-Sites)
     - [Cartoons/Animes](#cartoons-/-animes)
     - [Live Tv](#live-tv)
     - [Sports](#sports)
