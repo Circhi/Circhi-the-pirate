@@ -10,7 +10,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 # INDEX
 -  [Streaming](#streaming) 
     - [Streaming Sites](#Streaming-Sites)
-    - [Cartoons/Animes](#cartoons-/-animes)
+    - [Cartoons](#Cartoons)
     - [Live Tv](#live-tv)
     - [Sports](#sports)
 
@@ -53,7 +53,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 
 
-### Cartoons/Animes
+### Cartoons
 
 
 - [KissCartoon](kisscartoon.city) Very nice website with a big cartoon database 
