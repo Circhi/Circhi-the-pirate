@@ -9,7 +9,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 
 # INDEX
 -  [Streaming](#streaming) 
-    - [Streaming Sites(#Streaming-/-Sites)
+    - [Streaming Sites](#Streaming-Sites)
     - [Cartoons/Animes](#cartoons-/-animes)
     - [Live Tv](#live-tv)
     - [Sports](#sports)
@@ -18,7 +18,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
     - [Pc](#Pc)
     - [Android](#Android)
     - [IOS](#IOS)
-    - [hacking](#Hacking)
+    - [Hacking](#Hacking)
     - [Music](#Music)
     - [Torrents](#Torrents)
 
