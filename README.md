@@ -18,7 +18,9 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
     - [Pc](#Pc)
     - [Android](#Android)
     - [IOS](#IOS)
-    
+    - [hacking](#Hacking)
+    - [Music](#Music)
+    - [Torrents](#Torrents)
 
 -[]
 
@@ -124,8 +126,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 - [Search 2](https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0) Same as the one before 
 - [ApkExtractor](https://play.google.com/store/apps/details?id=com.ext.ui) Some apks need this app in order to run 
 - [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) My drive shared folder for Revanced, Spotify and other stuff 
-- []()
-- []()
+
 - []()
 
 ### IOS
@@ -134,20 +135,23 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 - [julio](https://julio.hackyouriphone.org/)
 - [Altstore](https://altstore.io/)
 - [Cydiageek](https://cydiageek.yourepo.com/)
-- [Guide For Altstore]()
+- [Guide For Altstore](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)
 
   
 ## Hacking
 
-<li> <a href="nulled.to"> Nulled </a> </li>
-<li> <a href="cracked.io"> Cracked </a> </li>
-<li> <a href="https://nsaneforums.com/"> NSAg </a> </li>
-<li> <a href="https://massgrave.dev/""> MAS</a> </li>
-  <li> <a href="https://guidedhacking.com/">Hackgames </a> </li>
+- [Nulled.to](nulled.to) Accounts and other tech stuff
+- [Cracked](cracked.io) Same as Nulled
+- [Nsae](https://nsaneforums.com) Apps and other 
+- [MAS](https://massgrave.dev/) Windows and Office activation tools
+- [Hackgames](https://guidedhacking.com/)
+
+
 
 ## Music 
 
-<li> <a href="https://slider.kz//"> Download MP3s</a> </li>
+-[SliderKz](https://slider.kz) Download singe mp3 files
+
  
  
 ## Learning
@@ -179,19 +183,24 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
   ## Torrents
   
-  <li> <a href="https://snowfl.com/">Torrent Search Engine</a> </li>
-  <li> <a href="https://proxyrarbg.org/torrents.php">Rar</a> </li>
-  <li> <a href="https://yts.unblockit.nz/">YTS</a> </li>
-  <li> <a href="https://ww3.torlook.info/">ToorLook </a> </li>
-  <li> <a href="https://www.1377x.to/">1377x</a> </li>
-  <li> <a href="https://thepiratebay.zone/">The PirateBay </a> </li>
-  <li> <a href="https://www.torrentleech.org/">TorrentLeech</a> </li>
-  <li> <a href="https://abtorrents.me/">ABTorrents</a> </li>
-  <li> <a href="http://magnet2torrent.com/">Magnet2Torrent </a> </li>
-  <li> <a href="https://justpaste.it/eurekaddl">Eurekaddl </a> </li>
-  <li> <a href="https://trackerslist.com/#/"> Traker</a> </li>
-  <li> <a href="reddit.com/r/Piracy/wiki/guides/private_trackers#wiki_.25BA_what_are_the_benefits_of_private_trackers_when_compared_to_public_trackers.3F"> What are Trakers</a> </li>
-  <li> <a href="https://piratebayproxy.info/"> Piratebay Proxies</a> </li>
+  
+  -[RARGB](https://proxyrarbg.org/torrents.php) In my opinion, alongside with YTS the best torrent site
+  -[YTS](https://yts.unblockit.nz)
+  -[1337x](https://www.1377x.to) Another good torrent site
+  -[ThePirateBay](https://thepiratebay.zone/) Who doesn't know The pirate Bay?
+  -[PirateBayProxy](https://piratebayproxy.info/) Proxy sites for The Pirate Bay 
+  -[TorrentLeech](https://www.torrentleech.org/) Private torrent tracker 
+  -[ABTorrents](https://abtorrents.me) Private torrent tracker for audiobooks and books
+  -[Magnet2Torrent](http://magnet2torrent.com) Transform magnet URLs into .torrent file 
+  -[TrackList](https://trackerslist.com/#/) A site with almost every torrent tracker 
+  -[Eurekaddl](https://justpaste.it/eurekaddl) Download italian 
+  -[Trackers](https://tinyurl.com/43kywa6u) What are Trackers??? REDDIT
+  -[Snowfl](https://snowfl.com/) Torrent search engine
+  
+  
+ 
+
+
   
 ## Tools
 
