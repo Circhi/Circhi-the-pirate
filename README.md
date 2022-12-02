@@ -188,7 +188,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
   ## Torrents
   
-  
+  - [READ THIS IS IT'S YOUR FIRST TIME!](https://telegra.ph/USEFUL-GUIDE-ON-HOW-TO-USE-TORRENTS-12-02) A detailed guide curated by be on what torrents are, how to use them and much more
   - [RARGB](https://proxyrarbg.org/torrents.php) In my opinion, alongside with YTS the best torrent site
   - [YTS](https://yts.unblockit.nz)
   - [1337x](https://www.1377x.to) Another good torrent site
