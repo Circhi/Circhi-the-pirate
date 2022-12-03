@@ -19,7 +19,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 -  [Games/Apks/Softwares for Free](#Games-Apks-Softwares-for-Free)
     - [Pc](#Pc)
     - [Android](#Android)
-    - [IOS](#IOS)
+    - [IOS](#iOS)
     - [macOS](#macOS)
     - [Hacking](#Hacking)
     - [Music](#Music)
