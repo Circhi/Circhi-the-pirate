@@ -20,6 +20,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
     - [Pc](#Pc)
     - [Android](#Android)
     - [IOS](#IOS)
+    - [macOS](#macOS)
     - [Hacking](#Hacking)
     - [Music](#Music)
 
@@ -138,10 +139,15 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
 ### IOS
 
-- [READ THIS IF IT](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)⭐⭐
+- [READ THIS IF IT'S YOUR FIRST TIME CRACKING AN APP ON IOS](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)⭐⭐
 - [julio](https://julio.hackyouriphone.org/)
 - [Altstore](https://altstore.io/)
 - [Cydiageek](https://cydiageek.yourepo.com/)
+
+
+### macOS
+- [MacTorrents](https://www.torrentmac.net/) Torrent website used to easly donwload macOS apps for free
+- [Cmacked](https://cmacked.com/) Directly download mac apps 
 
 
   
