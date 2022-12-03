@@ -2,10 +2,12 @@
 
 ![online-piracy](https://user-images.githubusercontent.com/102611155/162018014-92de099d-7422-4331-9b8b-94339393fd5f.jpg)
 
-<h2> This is my first GitHub page, here you'll find all kind of piracy links leading to a free world!!</h2> 
+<h2> This is GitHub page, here you'll find all kind of piracy links leading to a free world!!</h2> 
 <h4> Links found on other repositories, Reddit, Telegram, Weboasis and by me smushed together, these are the ones that work best, with fastest connection and no lag/region blocking.
 When a site is down or its domain changes, you'll find the new site here.
-There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!</h4>
+There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!
+Sites marked with a ⭐ are the one I prefer and I use daily
+</h4>
 
 # INDEX
 -  [Streaming](#streaming) 
@@ -41,12 +43,12 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ### Streaming Sites 
 
 - [Series9](https://series9.me/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
-- [Soap2day](https://soap2day.ac) One of the best streaming sites out, IMHO.
+- [Soap2day](https://soap2day.ac) ⭐ One of the best streaming sites out, IMHO.
 - [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
 - [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.
 - [Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
 - [IHaveNoTv](https://ihavenotv.com/") Website for Documentaries
-- [Cmovies](http://cmovies.so/) Cmovies is a mirror of 123 Movies, when one is down, try the other 
+- [Cmovies](http://cmovies.so/) ⭐ Cmovies is a mirror of 123 Movies, when one is down, try the other 
 - [M4UFree.Tv](https://ww1.m4ufree.tv/)
 - [Worldsrc](https://www.worldsrc.net/)
 - [StreamLord](http://www.streamlord.com/)
@@ -66,28 +68,28 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ### Live Tv
  
 - [Stream4Free](https://www.stream4free.live/) Live TV for Tv Series
-- [USTV](https://ustv247.tv/) Name says it all
+- [USTV](https://ustv247.tv/) ⭐ Name says it all
 - [Time4TV](https://time4tv.stream/) Live Tv with multiple tv channels across the World
 - [USTVGo](https://ustvgo.tv/) Us channels
-- [123Tv](http://123tvnow.com/) 123 TV is a really nice Us TV based website
+- [123Tv](http://123tvnow.com/) ⭐ 123 TV is a really nice Us TV based website
 
 
   
 ### Sports 
 
 - [VipRow](https://en.viprow.me/) now always working but still pretty good 
-- [SoccerStream](https://main.soccerstreams-100.tv/) I personaly think this is one the best option for streaming 
+- [SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming 
 - [SportsBay](https://www.sportsbay.sx/) All kind of sports here and multiple lenguages as wel 
 - [F1Stream](https://live.f1stream.me/) Streaming site for reces 
-- [WeakStreams](http://weakstreams.com) The best option for streaming, first 2 links are the fastest ones, usually  
+- [WeakStreams](http://weakstreams.com) ⭐ The best option for streaming, first 2 links are the fastest ones, usually  
 - [SoccerStream](https://reddit2.soccerstreamlinks.com) Mirror sito to Weakstreams
 - [Stream2Watch](https://reddit.istream2watch.com/)
 - [FootyBite](https://live10.footybite.cc/)
 - [StreamGoTo](https://streamgoto.me/a/) An alternative for Weakstreams 
-- [ProjectLive](https://projectlive.info/) Also itlian commentary here 
+- [ProjectLive](https://projectlive.info/) ⭐ Also itlian commentary here 
 - [TezGoal](https://tezgoal.com/menu-tezgoal/sports/football/) It was the best one but it appears to be down, leaving the link here in case it starts working again 
 - [Raceday](https://raceday.watch/#sessions)
-- [StarLive](https://starlive.xyz/)
+- [StarLive](https://starlive.xyz/)⭐ 
 - [123Streamscar](https://dd12streams.com/schedule)
 
 
@@ -101,8 +103,8 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ### Pc
 
 
-- [GetIntoPc](https://getintopc.com/) INHO the best site for downloading every kind of premium pc app for free
-- [OceanOfGames](https://oceansofgamess.com/) Same thing as GetIntoPc but for all kind of games
+- [GetIntoPc](https://getintopc.com/)⭐ INHO the best site for downloading every kind of premium pc app for free
+- [OceanOfGames](https://oceansofgamess.com/)⭐ Same thing as GetIntoPc but for all kind of games
 - [FileCr](https://filecr.com/en/?id=96126488640") Both Android and Windows apps
 - [1337xGames](https://www.1377x.to/popular-games) 1337x torrents for Games
 - [FitGirl](https://fitgirl-repacks.site/) Games repacked in small size
@@ -116,12 +118,12 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 ### Android
 
 
-- [ApkMirror](https://www.apkmirror.com/) Games and apps cracked 
+- [ApkMirror](https://www.apkmirror.com/) Games and apps cracked ⭐
 - [ApkFab](https://apkfab.com/)
-- [ModdingUnited](https://moddingunited.xyz/)
+- [ModdingUnited](https://moddingunited.xyz/)⭐
 - [ApkCombo](https://apkcombo.com/)
 - [FTUApps](https://ftuapps.dev/?1)
-- [ModCombo](modcombo.com)
+- [ModCombo](modcombo.com)⭐
 - [ApkHub](https://apkmodhub.in)
 - [SoftArchive](https://sanet.st)
 - [ApkMody](https://apkmody.io)
@@ -130,7 +132,7 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 - [Search](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0) This is a search engine for apks 
 - [Search 2](https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0) Same as the one before 
 - [ApkExtractor](https://play.google.com/store/apps/details?id=com.ext.ui) Some apks need this app in order to run 
-- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) My drive shared folder for Revanced, Spotify and other stuff 
+- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) ⭐ My drive shared folder for Revanced, Spotify and other stuff 
 
 - []()
 
@@ -140,15 +142,15 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
 - [julio](https://julio.hackyouriphone.org/)
 - [Altstore](https://altstore.io/)
 - [Cydiageek](https://cydiageek.yourepo.com/)
-- [Guide For Altstore](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)
+- [Guide For Altstore](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)⭐⭐
 
   
 ## Hacking
 
-- [Nulled.to](nulled.to) Accounts and other tech stuff
+- [Nulled.to](nulled.to) Accounts and other tech stuff⭐
 - [Cracked](cracked.io) Same as Nulled
 - [Nsae](https://nsaneforums.com) Apps and other 
-- [MAS](https://massgrave.dev/) Windows and Office activation tools
+- [MAS](https://massgrave.dev/) Windows and Office activation tools⭐
 - [Hackgames](https://guidedhacking.com/)
 
 
@@ -188,15 +190,15 @@ There are not a ton of them, bz once you'll check this out, you'll realize u don
   
   ## Torrents
   
-  - [READ THIS IS IT'S YOUR FIRST TIME!](https://telegra.ph/USEFUL-GUIDE-ON-HOW-TO-USE-TORRENTS-12-02) A detailed guide curated by be on what torrents are, how to use them and much more
-  - [RARGB](https://proxyrarbg.org/torrents.php) In my opinion, alongside with YTS the best torrent site
-  - [YTS](https://yts.unblockit.nz)
-  - [1337x](https://www.1377x.to) Another good torrent site
-  - [ThePirateBay](https://thepiratebay.zone/) Who doesn't know The pirate Bay?
+  - [READ THIS IS IT'S YOUR FIRST TIME!](https://telegra.ph/USEFUL-GUIDE-ON-HOW-TO-USE-TORRENTS-12-02) ⭐⭐ A detailed guide curated by be on what torrents are, how to use them and much more
+  - [RARGB](https://proxyrarbg.org/torrents.php)⭐ In my opinion, alongside with YTS the best torrent site
+  - [YTS](https://yts.unblockit.nz)⭐
+  - [1337x](https://www.1377x.to) ⭐ Another good torrent site
+  - [ThePirateBay](https://thepiratebay.zone/) ⭐ Who doesn't know The pirate Bay?
   - [PirateBayProxy](https://piratebayproxy.info/) Proxy sites for The Pirate Bay 
   - [TorrentLeech](https://www.torrentleech.org/) Private torrent tracker 
   - [ABTorrents](https://abtorrents.me) Private torrent tracker for audiobooks and books
-  - [Magnet2Torrent](http://magnet2torrent.com) Transform magnet URLs into .torrent file 
+  - [Magnet2Torrent](http://magnet2torrent.com) ⭐ Transform magnet URLs into .torrent file 
   - [TrackList](https://trackerslist.com/#/) A site with almost every torrent tracker 
   - [Eurekaddl](https://justpaste.it/eurekaddl) Download italian 
   - [Trackers](https://tinyurl.com/43kywa6u) What are Trackers??? REDDIT
