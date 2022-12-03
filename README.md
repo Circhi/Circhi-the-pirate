@@ -138,11 +138,11 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
 ### IOS
 
-
+- [READ THIS IF IT](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)⭐⭐
 - [julio](https://julio.hackyouriphone.org/)
 - [Altstore](https://altstore.io/)
 - [Cydiageek](https://cydiageek.yourepo.com/)
-- [Guide For Altstore](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)⭐⭐
+
 
   
 ## Hacking
