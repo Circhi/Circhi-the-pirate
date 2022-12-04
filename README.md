@@ -245,13 +245,8 @@ Sites marked with a ⭐ are the one I prefer and I use daily
   <li> <a href="https://spotifyunchained.com/">New Releases</a> </li>
   <li> <a href="https://skiley.net/">Playlist Maker</a> </li>
   <li> <a href="https://www.mooval.de/"> Moove Spotify Songs </a> </li>
-- [AdBlock for macOS](bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)
-)
-  
-  <!-- 
-<li> <a href="bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)
-"> </a> </li>
-  --> 
+ 
+    <li> bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)</li>
  
  
  ## Books & Audiobooks
