@@ -157,6 +157,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 - [MacTorrents](https://www.torrentmac.net/) Torrent website used to easly donwload macOS apps for free
 - [Cmacked](https://cmacked.com/) Directly download mac apps 
+- [InsMac](https://insmac.org/) Another website for mac apps
 
 
   
