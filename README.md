@@ -61,7 +61,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 - [BatFlixMovies](https://batflixmovies.club/">)
 - [WtfMovies](https://fmovies.wtf/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
 
-- [↑Back]()
+- [↑Back](https://github.com/Circhi/Circhi-the-pirate/blob/main/README.md)
 
 ### Cartoons
 
@@ -139,7 +139,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 - [ApkExtractor](https://play.google.com/store/apps/details?id=com.ext.ui) Some apks need this app in order to run 
 - [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) ⭐ My drive shared folder for Revanced, Spotify and other stuff 
 
-- []()
+
 
 ### IOS
 
