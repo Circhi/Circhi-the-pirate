@@ -7,12 +7,14 @@
 
 ## A small introducion to this project 
 
-I always been fascinated by computers and since i was very young I used them and learned how they work.
-I often get asked by people how they can watch a TV series they can't seem to find on Netflix, or how to install premium apps without paying or even how to watch live sport events without a streaming service; well now I decided to create this curated GitHub page, where you'll find all kind of <em> piracy </em> links leading to a free world!!
-You may be asking yourself where I got them; well the answer is the web of course, Reddit, Telegram, other repositories, sites not very well known and so on.
-Since these website are not entirely legal (copyright) the domains will probably change but don't worry I frequently check on them to make sure they all work properly.
-Yes other repositories may be 5x times larger, but this one is dedicated to people just starting their journey in this amazing world, so the links are fewer, but no less good
-Also a guide section is present, there you will find some guides on, for example, how to install cracked apps or how to use torrents.
+I always been fascinated by computers and since i was very young I used them and learned how they work. <br>
+After being asked by people how they can watch a TV series they can't seem to find on Netflix, or how to install premium apps without paying or even how to watch live sport events without a streaming service, I now decided to create this curated GitHub page, where you'll find all kind of <em> piracy </em> links leading to a free world!! <br>
+<br>
+You may be asking yourself where I got them; well the answer is the web of course, Reddit, Telegram, other repositories, sites not very well known and so on. 
+Since these website are not entirely legal (copyright) the domains will probably change, but don't worry, I frequently check on them to make sure they all work properly. <br>
+<br>
+Yes other repositories may be 5x times larger, but this one is dedicated to people just starting their journey in this amazing world, so the links are fewer, but no less good. <br>
+Also a guide section is present, there you will find some guides on, for example, how to install cracked apps or how to use torrents. <br>
 So no more talking now, enjoy this one big guide and I hope you will learn lots of new stuff.
 
 </h4>
@@ -176,15 +178,14 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
  
 ## Learning
 
-<li> <a href="https://gigacourse.com/?1">GigaCourse </a> </li>
-<li> <a href="https://hackr.io/">Hackr.io</a> </li> 
-<li> <a href="https://freecourseudemy.com/" >FreeUdemy</a> </li>
-<li> <a href="https://www.freecodecamp.org" >FreeCodeCamp </a> </li>
-<li> <a href="https://www.freecoursesonline.me/?1" >Free Courses</a> </li>
-<li> <a href="https://www.typelit.io/" > Type Novels</a> </li>
-<li> <a href="https://www.freecoursesonline.me/?1">Courses </a> </li>
-<li> <a href="https://www.typingstudy.com/lesson"> Typing</a> </li>
-<li> <a href="https://www.freecoursesonline.me/?1" >Some Other Free Courses </a> </li>
+- [GigaCourse](https://gigacourse.com/?1)
+- [Hackr.io](https://hackr.io)
+- [Freecodecamp](https://www.freecodecamp.org)
+- [Freecourseudemy](https://freecourseudemy.com/)
+- [Freecoursesonline](https://www.freecoursesonline.me/?)
+- [Typelit](https://www.typelit.io/)
+- [Typingstudy](https://www.typingstudy.com/lesson)
+- [Monkeytype](https://monkeytype.com/)
 
 
 
@@ -244,6 +245,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Cloudhiker](https://cloudhiker.net/explore) Explore new websites 
 - [Infogram](https://infogram.com/app/#/library) Make graphs online 
 - [Instructables](https://www.instructables.com/) Guide on how to build DIY stuff
+- [WordClouds](https://wordclouds.com) Create collages of words, really cool
 
   
  
@@ -261,14 +263,14 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
  ## Books & Audiobooks
  
 ### Books
-<li> <a href="https://www.pdfdrive.com/""> PDFDrive</a>  </li>
-<li> <a href="https://libgen.fun/">Libgen </a> </li>
-<li> <a href="http://ebook3000.com/"> Ebook3000</a> </li>
-<li> <a href="https://ebookee.com/">Ebookee</a> </li>
-<li> <a href="https://getcomics.info/">GetComics </a> </li>
-<li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
-<li> <a href="https://forum.mobilism.me/index.php?sid=cb17bd934ed4096f06414d9b5a87130c">Mobilism </a> </li>
-<li> <a href="https://pdfget.com/"> PDFGet</a> </li>
+- [Libgen](https://libgen.fun/) ⭐
+- [PDFDrive](https://www.pdfdrive.com/) ⭐ All kind of PDFs.
+- [Ebook3000](http://ebook3000.com)
+- [Ebokee](https://ebookee.com/)
+- [GetComics](https://getcomics.info) ⭐ Comics, comics and again comics!
+- [MagazineLib](https://magazinelib.com)
+- [PDFGet](https://pdfget.com/)
+- [Mobilism](https://forum.mobilism.me/index.php?sid=cb17bd934ed4096f06414d9b5a87130c) Not only books but apps too.
   
     
     
@@ -280,7 +282,6 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
   
 ## Miscellaneous 
 
-<li> <a href="https://myviptuto.com/" >My Vip Tuto </a> </li>
-<li> <a href="https://www.reddit.com/r/Addons4Kodi/wiki/introduction"> Kodi</a> </li>
-<li> <a href="https://www.cogipas.com/webrip-meaning-torrent-filenames/" >Torrent Names</a> </li>
-<li> <a href="https://sanet.st/" > Soft Archive</a> </li>
+- [MyVipTuto](https://myviptuto.com/)
+- [kodi](https://www.reddit.com/r/Addons4Kodi/wiki/introduction)
+- [TechBlog](Bfas237blog.com)
