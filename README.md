@@ -29,7 +29,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 -   [Torrents](#Torrents)
 
 - [Tools](#Tools)
-  -[Spotify Tools](#Spotify-Tools)
+  - [Spotify Tools](#Spotify-Tools)
 
 
    -[]
@@ -218,32 +218,32 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
   
 ## Tools
-- [DownForEveryone](https://downforeveryoneorjustme.com/)Check if a domain is down for you or for everyone
+- [DownForEveryone](https://downforeveryoneorjustme.com/) Check if a domain is down for you or for everyone
 - [IsItDown](https://www.isitdownrightnow.com/)
 - [DownDetector](https://downdetector.com/)
-- [TempMail](https://mail.tm)Create free temp mails to register for website that you don't want notification from 
-- [ScreenApp](https://screenapp.io/#/dashboard)Record your screen without the need of a software
-- [ScreenshotGuru](https://screenshot.guru/)Full page screenshots 
-- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)Extension for web browser to capture full screen screenshots
-- [CopyChar](https://copychar.cc/)Copy special characters and emojy in one click 
-- [Convertio](https://convertio.co/)Covert all kind of files 
-- [123Apps](https://123apps.com/)Huge selection of tools, for Audio, PDF, Imgs and Videos 
-- [ILoveImg](https://www.iloveimg.com/)Tools for images
-- [textCleaner](https://www.textcleanr.com/#)Clean your text
-- [CovertCase](https://convertcase.net/)Text formatting 
-- [Wolframalpha](https://www.wolframalpha.com/)Solve math problems online 
-- [Random](https://www.random.org)Pick a random number 
-- [Obscurifymusic](https://obscurifymusic.com/home)How obscure your music is?
-- [Manualslib](https://www.manualslib.com/)Big selection of manuals
-- [Bingeclock](https://www.bingeclock.com/)Tells you how long does it take to binge a series or a movie franchise 
-- [TVGuide](https://www.tvguide.com/)Tv news
-- [Carrd](https://carrd.co/)Make awesome portfolio cards 
-- [Wheregoes](https://wheregoes.com/)Ckeck if a link is secure and where it heads 
-- [Tinyurl](https://tinyurl.com/app)Short a long URL into a smaller one 
-- [Noisli](https://www.noisli.com/playlists)Relaxing sounds
-- [Cloudhiker](https://cloudhiker.net/explore)Explore new websites 
-- [Infogram](https://infogram.com/app/#/library)Make graphs online 
-- [Instructables](https://www.instructables.com/)Guide on how to build DIY stuff
+- [TempMail](https://mail.tm) Create free temp mails to register for website that you don't want notification from 
+- [ScreenApp](https://screenapp.io/#/dashboard) Record your screen without the need of a software
+- [ScreenshotGuru](https://screenshot.guru/) Full page screenshots 
+- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) Extension for web browser to capture full screen screenshots
+- [CopyChar](https://copychar.cc/) Copy special characters and emojy in one click 
+- [Convertio](https://convertio.co/) Covert all kind of files 
+- [123Apps](https://123apps.com/) Huge selection of tools, for Audio, PDF, Imgs and Videos 
+- [ILoveImg](https://www.iloveimg.com/) Tools for images
+- [textCleaner](https://www.textcleanr.com/#) Clean your text
+- [CovertCase](https://convertcase.net/) Text formatting 
+- [Wolframalpha](https://www.wolframalpha.com/) Solve math problems online 
+- [Random](https://www.random.org) Pick a random number 
+- [Obscurifymusic](https://obscurifymusic.com/home) How obscure your music is?
+- [Manualslib](https://www.manualslib.com/) Big selection of manuals
+- [Bingeclock](https://www.bingeclock.com/) Tells you how long does it take to binge a series or a movie franchise 
+- [TVGuide](https://www.tvguide.com/) Tv news
+- [Carrd](https://carrd.co/) Make awesome portfolio cards 
+- [Wheregoes](https://wheregoes.com/) Ckeck if a link is secure and where it heads 
+- [Tinyurl](https://tinyurl.com/app) Short a long URL into a smaller one 
+- [Noisli](https://www.noisli.com/playlists)R elaxing sounds
+- [Cloudhiker](https://cloudhiker.net/explore) Explore new websites 
+- [Infogram](https://infogram.com/app/#/library) Make graphs online 
+- [Instructables](https://www.instructables.com/) Guide on how to build DIY stuff
 
   
 
@@ -251,10 +251,10 @@ Sites marked with a ⭐ are the one I prefer and I use daily
  ## Spotify Tools 
   
   
-- [Spotmybackup](http://www.spotmybackup.com/)Spotify backup tool
-- [Spotifyunchained](https://spotifyunchained.com)New music coming on Spotify daily 
-- [Skiley](https://skiley.net)Playlist maker
-- [Exportify](https://watsonbox.github.io/exportify/)Export your Spotify playlist so you can move them to another account 
+- [Spotmybackup](http://www.spotmybackup.com/) Spotify backup tool
+- [Spotifyunchained](https://spotifyunchained.com) New music coming on Spotify daily 
+- [Skiley](https://skiley.net) Playlist maker
+- [Exportify](https://watsonbox.github.io/exportify/) Export your Spotify playlist so you can move them to another account 
 - 
  <li> bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)</li>
  
