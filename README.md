@@ -10,8 +10,8 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 </h4>
 
 
-- [↑](#↑)
-# - [INDEX]
+- [Top](#↑)
+# INDEX
 -  [Streaming](#streaming) 
     - [Streaming Sites](#Streaming-Sites)
     - [Cartoons](#Cartoons)
@@ -23,20 +23,18 @@ Sites marked with a ⭐ are the one I prefer and I use daily
     - [Android](#Android)
     - [IOS](#iOS)
     - [macOS](#macOS)
+    - [Learning](#Learning)
     - [Hacking](#Hacking)
     - [Music](#Music)
-
-
 
 -   [Torrents](#Torrents)
 
 - [Tools](#Tools)
-  - [Spotify Tools](#Spotify-Tools)
+    - [Spotify Tools](#Spotify-Tools)
 
-
-   -[]
-
--[]
+- [Books](#Books)
+- [AudioBooks](#Audiobooks) 
+- [Miscellaneous](#Miscellaneous)
 
 
 
@@ -64,7 +62,6 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 - [↑Back](https://github.com/Circhi/Circhi-the-pirate/blob/main/README.md)
 
 ### Cartoons
-
 
 - [KissCartoon](kisscartoon.city) Very nice website with a big cartoon database 
 - [Kimcartoon](https://kimcartoon.li/) Almost identical to KissCartoon
@@ -107,7 +104,6 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
 ### Pc
 
-
 - [GetIntoPc](https://getintopc.com/)⭐ INHO the best site for downloading every kind of premium pc app for free
 - [OceanOfGames](https://oceansofgamess.com/)⭐ Same thing as GetIntoPc but for all kind of games
 - [FileCr](https://filecr.com/en/?id=96126488640") Both Android and Windows apps
@@ -121,7 +117,6 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
 
 ### Android
-
 
 - [ApkMirror](https://www.apkmirror.com/) Games and apps cracked ⭐
 - [ApkFab](https://apkfab.com/)
@@ -150,6 +145,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
 
 ### macOS
+
 - [MacTorrents](https://www.torrentmac.net/) Torrent website used to easly donwload macOS apps for free
 - [Cmacked](https://cmacked.com/) Directly download mac apps 
 
@@ -183,21 +179,8 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 <li> <a href="https://www.typingstudy.com/lesson"> Typing</a> </li>
 <li> <a href="https://www.freecoursesonline.me/?1" >Some Other Free Courses </a> </li>
 
-  
-  <!-- 
 
 
-
-
-
-
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  <li> <a href="" > </a> </li>
-  -->
-  
   ## Torrents
   
   - [READ THIS IS IT'S YOUR FIRST TIME!](https://telegra.ph/USEFUL-GUIDE-ON-HOW-TO-USE-TORRENTS-12-02) ⭐⭐ A detailed guide curated by be on what torrents are, how to use them and much more
@@ -218,8 +201,8 @@ Sites marked with a ⭐ are the one I prefer and I use daily
  
 
 
-  
 ## Tools
+
 - [DownForEveryone](https://downforeveryoneorjustme.com/) Check if a domain is down for you or for everyone
 - [IsItDown](https://www.isitdownrightnow.com/)
 - [DownDetector](https://downdetector.com/)
@@ -248,10 +231,8 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 - [Instructables](https://www.instructables.com/) Guide on how to build DIY stuff
 
   
-
-  
+ 
  ## Spotify Tools 
-  
   
 - [Spotmybackup](http://www.spotmybackup.com/) Spotify backup tool
 - [Spotifyunchained](https://spotifyunchained.com) New music coming on Spotify daily 
@@ -261,6 +242,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
  <li> bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)</li>
  
  
+    
  ## Books & Audiobooks
  
 ### Books
@@ -272,21 +254,14 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 <li> <a href="https://magazinelib.com/">Magazine Download</a> </li>
 <li> <a href="https://forum.mobilism.me/index.php?sid=cb17bd934ed4096f06414d9b5a87130c">Mobilism </a> </li>
 <li> <a href="https://pdfget.com/"> PDFGet</a> </li>
-<!--
-<li> <a href=""> </a> </li>
-<li> <a href=""> </a> </li>
---> 
   
+    
+    
 ### Audiobooks
 
 <li> <a href="https://tokybook.com/" >TokyBook </a> </li>
-  <!--
-<li> <a href="" > </a> </li>
-<li> <a href="" > </a> </li>
-<li> <a href="" > </a> </li>
-<li> <a href="" > </a> </li>
-<li> <a href="" > </a> </li>
- -->
+
+
   
 ## Miscellaneous 
 
