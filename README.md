@@ -2,13 +2,25 @@
 
 ![online-piracy](https://user-images.githubusercontent.com/102611155/162018014-92de099d-7422-4331-9b8b-94339393fd5f.jpg)
 
-<h2> This is my GitHub page, here you'll find all kind of piracy links leading to a free world!!</h2> 
-<h4> Links found on other repositories, Reddit, Telegram, Weboasis and by me smushed together, these are the ones that work best, with fastest connection and no lag/region blocking.
-When a site is down or its domain changes, you'll find the new site here.
-There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!
+
+> The easiest way to stop piracy is not by putting antipiracy technology to work. It’s by giving those people a service that’s better than what they’re receiving from the pirates.
+
+## A small introducion to this project 
+
+I always been fascinated by computers and since i was very young I used them and learned how they work.
+I often get asked by people how they can watch a TV series they can't seem to find on Netflix, or how to install premium apps without paying or even how to watch live sport events without a streaming service; well now I decided to create this curated GitHub page, where you'll find all kind of <em> piracy </em> links leading to a free world!!
+You may be asking yourself where I got them; well the answer is the web of course, Reddit, Telegram, other repositories, sites not very well known and so on.
+Since these website are not entirely legal (copyright) the domains will probably change but don't worry I frequently check on them to make sure they all work properly.
+Yes other repositories may be 5x times larger, but this one is dedicated to people just starting their journey in this amazing world, so the links are fewer, but no less good
+Also a guide section is present, there you will find some guides on, for example, how to install cracked apps or how to use torrents.
+So no more talking now, enjoy this one big guide and I hope you will learn lots of new stuff.
+
 </h4>
-<h3>What does the ⭐ stand for?<br></h3?
+
+<h2>What does the ⭐ stand for?<br></h2>
 <h4>When you see the ⭐ emojy it means those sites are the ones that are faster then the others and that I personally reccomend</h4>
+<h2>It is a very long list, how do I search for a specific site/keyword?<br></h2>
+<h4>Easy enoung, just press Ctrl + F and type the word you were looking for!</h4>
 
 # INDEX
 -  [Streaming](#streaming) 
