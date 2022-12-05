@@ -2,15 +2,14 @@
 
 ![online-piracy](https://user-images.githubusercontent.com/102611155/162018014-92de099d-7422-4331-9b8b-94339393fd5f.jpg)
 
-<h2> This is GitHub page, here you'll find all kind of piracy links leading to a free world!!</h2> 
+<h2> This is my GitHub page, here you'll find all kind of piracy links leading to a free world!!</h2> 
 <h4> Links found on other repositories, Reddit, Telegram, Weboasis and by me smushed together, these are the ones that work best, with fastest connection and no lag/region blocking.
 When a site is down or its domain changes, you'll find the new site here.
 There are not a ton of them, bz once you'll check this out, you'll realize u dont need them all, only the best!
-Sites marked with a ⭐ are the one I prefer and I use daily
 </h4>
+<h3>What does the ⭐ stand for?<br></h3?
+<h4>When you see the ⭐ emojy it means those sites are the ones that are faster then the others and that I personally reccomend</h4>
 
-
-- [Top](#↑)
 # INDEX
 -  [Streaming](#streaming) 
     - [Streaming Sites](#Streaming-Sites)
@@ -28,7 +27,7 @@ Sites marked with a ⭐ are the one I prefer and I use daily
     - [Music](#Music)
 
 -   [Torrents](#Torrents)
-    -[Torrent Clients](#Torrent-Clients)
+    - [Torrent Clients](#Torrent-Clients)
 
 - [Tools](#Tools)
     - [Spotify Tools](#Spotify-Tools)
@@ -60,12 +59,13 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 - [BatFlixMovies](https://batflixmovies.club/">)
 - [WtfMovies](https://fmovies.wtf/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
 
-- [↑Back](https://github.com/Circhi/Circhi-the-pirate/blob/main/README.md)
+
 
 ### Cartoons
 
 - [KissCartoon](kisscartoon.city) Very nice website with a big cartoon database 
 - [Kimcartoon](https://kimcartoon.li/) Almost identical to KissCartoon
+
 
 
 ### Live Tv
@@ -98,9 +98,6 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 
 
 
-          
-
-  
 ## Games/Apks/Softwares for Free
 
 ### Pc
@@ -111,9 +108,6 @@ Sites marked with a ⭐ are the one I prefer and I use daily
 - [1337xGames](https://www.1377x.to/popular-games) 1337x torrents for Games
 - [FitGirl](https://fitgirl-repacks.site/) Games repacked in small size
 - [CrackWatch](https://www.reddit.com/r/CrackWatch/) Subreddit for Fitgirl releases 
-
-
-
 
 
 
