@@ -22,7 +22,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 <h2>What does the ⭐ stand for?<br></h2>
 <h4>When you see the ⭐ emojy it means those sites are the ones that are faster then the others and that I personally reccomend</h4>
 <h2>It is a very long list, how do I search for a specific site/keyword?<br></h2>
-<h4>Easy enoung, just press Ctrl + F and type the word you were looking for!</h4>
+<h4>Easy enough, just press Ctrl + F and type the word you were looking for!</h4>
 
 # INDEX
 -  [Streaming](#streaming) 
