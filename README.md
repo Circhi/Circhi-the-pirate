@@ -249,7 +249,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Instructables](https://www.instructables.com/) Guide on how to build DIY stuff
 - [WordClouds](https://wordclouds.com) Create collages of words, really cool
 
-  
+- [YouTubeDownloader](co.wukko.me)
+- [YouTubeDownloader](locoloader.com)
  
  ## Spotify Tools 
   
