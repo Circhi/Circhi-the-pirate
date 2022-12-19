@@ -111,8 +111,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Olesport](https://olesport.live/)
 - [Buffstreams](https://buffstreams.sx/)
 - [KoraKoora](https://kora.koora.live) Arabic commentary 
-- [ScoreActive](www.scoreactive.com)
-- [Dzeko11](dzeko11.net)
+- [ScoreActive](http://www.scoreactive.com/)
+- [Dzeko11](https://dzeko11.net/)
 
 
 ## Games/Apks/Softwares for Free
