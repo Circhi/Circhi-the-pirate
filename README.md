@@ -95,7 +95,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 ### Sports 
 
 - [VipRow](https://en.viprow.me/) now always working but still pretty good 
-- [SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming 
+- ~~[SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming~~
 - [SportsBay](https://www.sportsbay.sx/) All kind of sports here and multiple lenguages as wel 
 - [F1Stream](https://live.f1stream.me/) Streaming site for reces 
 - [WeakStreams](http://weakstreams.com) ⭐ The best option for streaming, first 2 links are the fastest ones, usually  
@@ -110,7 +110,9 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [123Streamscar](https://dd12streams.com/schedule)
 - [Olesport](https://olesport.live/)
 - [Buffstreams](https://buffstreams.sx/)
-
+- [KoraKoora](https://kora.koora.live) Arabic commentary 
+- [ScoreActive](www.scoreactive.com)
+- [Dzeko11](dzeko11.net)
 
 
 ## Games/Apks/Softwares for Free
