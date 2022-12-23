@@ -209,6 +209,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
   - [Trackers](https://tinyurl.com/43kywa6u) What are Trackers??? REDDIT
   - [Snowfl](https://snowfl.com/) Torrent search engine
   - [SceneTime](https://scenetime.com/)
+  - [GUIDE ON HOW TO DOWNLOAD SUBTITLES](https://telegra.ph/How-to-manually-insert-subtitles-in-a-movie-12-23) ⭐ Very useful guide on how to download subtitles 
   
  ## Torrent Clients
  
