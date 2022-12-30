@@ -72,7 +72,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [YesMovies](https://yesmovies.pe/yes.html) Another 123 Movies like site
 - [BatFlixMovies](https://batflixmovies.club/">)
 - [WtfMovies](https://fmovies.wtf/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
-
+- [WatchSeries](https://web.swatchseries.ru/)
+- [Flixtor](https://flixtor.video/)
 
 
 ### Cartoons
