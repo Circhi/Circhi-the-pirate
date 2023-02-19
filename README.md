@@ -96,11 +96,11 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 ### Sports 
 
 - [VipRow](https://en.viprow.me/) now always working but still pretty good 
-- ~~[SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming~~
+- [SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming
 - [SportsBay](https://www.sportsbay.sx/) All kind of sports here and multiple lenguages as wel 
 - [F1Stream](https://live.f1stream.me/) Streaming site for reces 
 - ~~[WeakStreams](http://weakstreams.com) ⭐ The best option for streaming, first 2 links are the fastest ones, usually~~
-- ~~[SoccerStream](https://reddit2.soccerstreamlinks.com) Mirror sito to Weakstreams~~
+- [SoccerStream](https://reddit2.soccerstreamlinks.com) Mirror sito to Weakstreams
 - ~~[Stream2Watch](https://reddit.istream2watch.com/)~~
 - [FootyBite](https://live10.footybite.cc/)
 - [StreamGoTo](https://streamgoto.me/a/) An alternative for Weakstreams 
@@ -122,7 +122,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [LatifiStreams](https://www.latifistreams.com/) Racing
 - [DD12](https://dd12streams.com/schedule) Racing Schedule
 - [Aceztrims](https://aceztrims.netlify.app/) Racing Schedule
-
+- [RainoStreams](http://rainostreams.com)⭐
+- [Raceday](https://raceday.watch/)
 
 
 ## Games/Apks/Softwares for Free
@@ -220,6 +221,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
   - [Snowfl](https://snowfl.com/) Torrent search engine
   - [SceneTime](https://scenetime.com/)
   - [GUIDE ON HOW TO DOWNLOAD SUBTITLES](https://telegra.ph/How-to-manually-insert-subtitles-in-a-movie-12-23) ⭐ Very useful guide on how to download subtitles 
+  - [Game Torrents](https://www.gamestorrents.fm/home/)
   
  ## Torrent Clients
  
@@ -245,6 +247,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Convertio](https://convertio.co/) ⭐ Covert all kind of files 
 - [123Apps](https://123apps.com/) ⭐ Huge selection of tools, for Audio, PDF, Imgs and Videos 
 - [ILoveImg](https://www.iloveimg.com/) Tools for images
+- [ILovePdfs](https://www.ilovepdf.com/)
 - [textCleaner](https://www.textcleanr.com/#) Clean your text
 - [CovertCase](https://convertcase.net/) ⭐ Text formatting 
 - [Wolframalpha](https://www.wolframalpha.com/) Solve math problems online 
