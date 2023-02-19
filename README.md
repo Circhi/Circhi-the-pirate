@@ -116,6 +116,14 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Dzeko11](https://dzeko11.net/)
 - [Skystreaming](https://skystreaming.tw/)⭐ 
 - [SportsHub](https://sportshub.stream/)
+- [DaddyLive](https://daddylivehd.sx/) ⭐ Very good quality and almost no lag
+- [CricHd](https://www.crichd.live/home27)
+- [MolaTv](https://mola.tv)
+- [LatifiStreams](https://www.latifistreams.com/) Racing
+- [DD12](https://dd12streams.com/schedule) Racing Schedule
+- [Aceztrims](https://aceztrims.netlify.app/) Racing Schedule
+
+
 
 ## Games/Apks/Softwares for Free
 
@@ -253,6 +261,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Infogram](https://infogram.com/app/#/library) Make graphs online 
 - [Instructables](https://www.instructables.com/) Guide on how to build DIY stuff
 - [WordClouds](https://wordclouds.com) Create collages of words, really cool
+
+-[Time Zone Converter](https://dateful.com/time-zone-converter) ⭐
 
 - [VideoDownloader](https://www.locoloader.com/)
 - [VideoDownloader](https://co.wukko.me/)
