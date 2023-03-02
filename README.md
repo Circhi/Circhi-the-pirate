@@ -74,6 +74,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [WtfMovies](https://fmovies.wtf/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
 - [WatchSeries](https://web.swatchseries.ru/)
 - [Flixtor](https://flixtor.video/)
+- [GoWatchSeries](http://www5.gowatchseries.tv) ⭐ 
 
 
 ### Cartoons
