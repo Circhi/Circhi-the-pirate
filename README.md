@@ -75,6 +75,13 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [WatchSeries](https://web.swatchseries.ru/)
 - [Flixtor](https://flixtor.video/)
 - [GoWatchSeries](http://www5.gowatchseries.tv) ⭐ 
+- [HDMovieBox](https://hdmoviebox.net/latest-movies)
+- [Look2Movie](https://lookmovie2.to/movies/page/7)
+- [Fmovies](https://fmovies.wtf/home)
+- [F2](https://www6.f2movies.to/)
+- [Hurawatch](https://hurawatch.at/home)
+- [Filmxy](https://www.filmxy.vip/)
+
 
 
 ### Cartoons
@@ -209,7 +216,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
   ## Torrents
   
   - [READ THIS IS IT'S YOUR FIRST TIME!](https://telegra.ph/USEFUL-GUIDE-ON-HOW-TO-USE-TORRENTS-12-02) ⭐⭐ A detailed guide curated by be on what torrents are, how to use them and much more
-  - [RARGB](https://proxyrarbg.org/torrents.php)⭐ In my opinion, alongside with YTS the best torrent site
+  ~~- [RARGB](https://proxyrarbg.org/torrents.php)⭐ In my opinion, alongside with YTS the best torrent site~~ TAKEN DOWN
+  -[NQRargb](https://nq-rarbg.to/)
   - [YTS](https://yts.unblockit.nz)⭐
   - [1337x](https://www.1377x.to) ⭐ Another good torrent site
   - [ThePirateBay](https://thepiratebay.zone/) ⭐ Who doesn't know The pirate Bay?
