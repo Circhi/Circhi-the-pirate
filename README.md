@@ -62,10 +62,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Series9](https://series9mx.pro/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
 - [Soap2day](https://soap2day.id) ⭐ One of the best streaming sites out, IMHO.
 - [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
-<!--- [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.-->
 - [Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
 - [IHaveNoTv](https://ihavenotv.com/") Website for Documentaries
-<!--  - [Cmovies](http://cmovies.so/) ⭐ Cmovies is a mirror of 123 Movies, when one is down, try the other -->
 - [M4UFree.Tv](https://ww1.m4ufree.tv/)
 - [Worldsrc](https://www.worldsrc.net/)
 - [StreamLord](http://www.streamlord.com/)
@@ -321,3 +319,10 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [MyVipTuto](https://myviptuto.com/)
 - [kodi](https://www.reddit.com/r/Addons4Kodi/wiki/introduction)
 - [TechBlog](Bfas237blog.com)
+
+
+
+
+
+<!--- [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.-->
+<!--  - [Cmovies](http://cmovies.so/) ⭐ Cmovies is a mirror of 123 Movies, when one is down, try the other -->
