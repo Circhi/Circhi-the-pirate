@@ -59,28 +59,27 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 ### Streaming Sites 
 
-- [Series9](https://series9.me/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
-- [Soap2day](https://soap2day.ac) ⭐ One of the best streaming sites out, IMHO.
+- [Series9](https://series9mx.pro/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
+- [Soap2day](https://soap2day.id) ⭐ One of the best streaming sites out, IMHO.
 - [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
-- [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.
+<!--   ~~- [Cinema Fun Hd](https://cinefunhd.com/) Quality is usually good but sometimes lacks content.~~ -->
 - [Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
 - [IHaveNoTv](https://ihavenotv.com/") Website for Documentaries
-- [Cmovies](http://cmovies.so/) ⭐ Cmovies is a mirror of 123 Movies, when one is down, try the other 
+<!--  - [Cmovies](http://cmovies.so/) ⭐ Cmovies is a mirror of 123 Movies, when one is down, try the other -->
 - [M4UFree.Tv](https://ww1.m4ufree.tv/)
 - [Worldsrc](https://www.worldsrc.net/)
 - [StreamLord](http://www.streamlord.com/)
-- [YesMovies](https://yesmovies.pe/yes.html) Another 123 Movies like site
-- [BatFlixMovies](https://batflixmovies.club/">)
-- [WtfMovies](https://fmovies.wtf/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
+- [YesMovies](https://ww.yesmovies.ag) Another 123 Movies like site
+- [BatFlixMovies](https://batflixmovies.club/)
+- [WtfMovies](https://fmoviesz.to/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
 - [WatchSeries](https://web.swatchseries.ru/)
-- [Flixtor](https://flixtor.video/)
+- [Flixtor](https://flixtor.si/home)
 - [GoWatchSeries](http://www5.gowatchseries.tv) ⭐ 
-- [HDMovieBox](https://hdmoviebox.net/latest-movies)
 - [Look2Movie](https://lookmovie2.to/movies/page/7)
 - [Fmovies](https://fmovies.wtf/home)
 - [F2](https://www6.f2movies.to/)
 - [Hurawatch](https://hurawatch.at/home)
-- [Filmxy](https://www.filmxy.vip/)
+- [Filmxy](https://www.filmxy.vip/) Here you must login with your google account, but so far seems secure.
 
 - []()
 
@@ -88,7 +87,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 ### Cartoons
 
-- [KissCartoon](kisscartoon.city) Very nice website with a big cartoon database 
+- [KissCartoon](https://www1.kisscartoon.online/) Very nice website with a big cartoon database 
 - [Kimcartoon](https://kimcartoon.li/) Almost identical to KissCartoon
 
 
@@ -98,9 +97,9 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Stream4Free](https://www.stream4free.live/) Live TV for Tv Series
 - [USTV](https://ustv247.tv/) ⭐ Name says it all
 - [Time4TV](https://time4tv.stream/) Live Tv with multiple tv channels across the World
-- [USTVGo](https://ustvgo.tv/) Us channels
+- [USTVGo](https://ustvgo.live/) Us channels
 - [123Tv](http://123tvnow.com/) ⭐ 123 TV is a really nice Us TV based website
-- [TV247](http://tv247.us)
+- [TV247](https://tv247us.com/)
 
 
   
