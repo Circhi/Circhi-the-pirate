@@ -147,7 +147,8 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [FileCr](https://filecr.com/en/?id=96126488640") Both Android and Windows apps
 - [1337xGames](https://www.1377x.to/popular-games) 1337x torrents for Games
 - [FitGirl](https://fitgirl-repacks.site/) Games repacked in small size
-- [CrackWatch](https://www.reddit.com/r/CrackWatch/) Subreddit for Fitgirl releases 
+- [CrackWatch](https://www.reddit.com/r/CrackWatch/) Subreddit for Fitgirl releases
+- [Monkrus](https://w14.monkrus.ws/)⭐ Best site for Adobe suite
 
 
 
