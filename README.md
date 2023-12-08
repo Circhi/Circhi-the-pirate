@@ -136,6 +136,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Skystreaming](https://skystreaming.today/) Sometimes it can be laggy 
 - [Nopay](https://nopay2.info/)
 - [ATDHE](https://atdheeu.com/) Lots of sports, to be tested yet
+- [TV96](https://en.tv96.cc/) Arabic but nice
 
 
 ## Games/Apks/Softwares for Free
