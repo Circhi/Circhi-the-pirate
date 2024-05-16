@@ -163,7 +163,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [ModCombo](modcombo.com)⭐
 - [ApkHub](https://apkmodhub.in)
 - [SoftArchive](https://sanet.st)
-- [ApkMody](https://apkmody.io)
+- [ApkMody](https://apkmody.io
 - [LuckyPatcher](https://www.luckypatchers.com/download/)
 - [SkidRowgames](https://skidrowrepacks.com/)
 - [Search](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0) This is a search engine for apks 
@@ -175,7 +175,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 ### IOS
 
-- [READ THIS IF IT'S YOUR FIRST TIME CRACKING AN APP ON IOS](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-30)⭐⭐
+- [READ THIS IF IT'S YOUR FIRST TIME CRACKING AN APP ON IOS](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-17)⭐⭐
 - [julio](https://julio.hackyouriphone.org/)
 - [Altstore](https://altstore.io/)
 - [Cydiageek](https://cydiageek.yourepo.com/)
