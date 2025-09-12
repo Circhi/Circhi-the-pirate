@@ -76,6 +76,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Fmovies](https://ww4.fmovies.co/24/)
 - [F2](https://www6.f2movies.to/) 1080p Quality available 
 - [Hurawatch](https://hurawatchz.tv)
+- [123stream](https://123tv-stream.lol/)
 
 
 
@@ -84,18 +85,16 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 ### Cartoons
 
-- [KissCartoon](https://www1.kisscartoon.online/) Very nice website with a big cartoon database 
-- [Kimcartoon](https://kimcartoon.li/) Almost identical to KissCartoon
+- [KissCartoon](https://kisscartoon.sh) Very nice website with a big cartoon database 
+- [Kimcartoon](https://kimcartoon.com.co/) Almost identical to KissCartoon
 
 
 
 ### Live Tv
  
 - [Stream4Free](https://www.stream4free.live/) Live TV for Tv Series
-- [USTV](https://ustv247.tv/) ⭐ Name says it all
-- [Time4TV](https://time4tv.stream/) Live Tv with multiple tv channels across the World
+- [USTV](https://tv247.us) ⭐ Name says it all
 - [USTVGo](https://ustvgo.live/) Us channels
-- [123Tv](http://123tvnow.com/) ⭐ 123 TV is a really nice Us TV based website
 - [TV247](https://tv247us.com/)
 
 
