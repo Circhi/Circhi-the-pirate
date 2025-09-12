@@ -74,7 +74,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [GoWatchSeries](https://watchseriestv.com.cv/)
 - [Look2Movie](https://lookmovie2.to/movies/page/7) Low quality, premium must be VIP
 - [Fmovies](https://ww4.fmovies.co/24/)
-- [F2](https://www6.f2movies.to/)
+- [F2](https://www6.f2movies.to/) 1080p Quality available 
 - [Hurawatch](https://hurawatchz.tv)
 
 
