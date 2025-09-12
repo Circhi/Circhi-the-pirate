@@ -289,8 +289,11 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Spotmybackup](http://www.spotmybackup.com/) ⭐ Spotify backup tool
 - [Spotifyunchained](https://spotifyunchained.com) New music coming on Spotify daily 
 - [Skiley](https://skiley.net) Playlist maker
-- [Exportify](https://watsonbox.github.io/exportify/) ⭐ Export your Spotify playlist so you can move them to another account 
-- 
+- [Exportify](https://watsonbox.github.io/exportify/) ⭐ Export your Spotify playlist so you can move them to another account
+- [PuddingTool](https://pudding.cool) Just Try it LOL
+- [FavoriteMusic](https://favoritemusic.guru/)
+- [Obscurify](https://www.obscurifymusic.com/home) How obscure is your music??
+
  <li> bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)</li>
  
  
