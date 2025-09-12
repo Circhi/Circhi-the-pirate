@@ -59,25 +59,23 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 ### Streaming Sites 
 
-- [Series9](https://series9mx.pro/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
-- [Soap2day](https://soap2day.id) ⭐ One of the best streaming sites out, IMHO.
+- [Series9](https://series9.lol/) Series 9 is a very nice website where you can whatch both movies and tv series and the quality is pretty high too.
+- [Soap2day](https://ww25.soap2day.day/) ⭐ One of the best streaming sites out, IMHO.
 - [123Movies](https://ww1.123moviesfree.net) 123 Movies is a nice alternative to Series9, warning, domain often changes. 
 - [Top Documentaries](https://topdocumentaryfilms.com/) Lots of documentaries
 - [IHaveNoTv](https://ihavenotv.com/") Website for Documentaries
-- [M4UFree.Tv](https://ww1.m4ufree.tv/)
+- [M4UFree.Tv](https://m4uhd.page/)
 - [Worldsrc](https://www.worldsrc.net/)
-- [StreamLord](http://www.streamlord.com/)
 - [YesMovies](https://ww.yesmovies.ag) Another 123 Movies like site
 - [BatFlixMovies](https://batflixmovies.club/)
-- [WtfMovies](https://fmoviesz.to/) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
-- [WatchSeries](https://web.swatchseries.ru/)
-- [Flixtor](https://flixtor.si/home)
-- [GoWatchSeries](http://www5.gowatchseries.tv) ⭐ 
-- [Look2Movie](https://lookmovie2.to/movies/page/7)
-- [Fmovies](https://fmovies.wtf/home)
+- [SeeFlix](https://ww4.seeflix.to) incredible IU, super fast and also option for subs and different quality is avaiable, TOP   
+- [WatchSeries](https://swatchseries.is)
+- [Flixtor](https://flixtor.si/home) Working but for movies and Tv Shows prior to 2025 you must be a VIP member 
+- [GoWatchSeries](https://watchseriestv.com.cv/)
+- [Look2Movie](https://lookmovie2.to/movies/page/7) Low quality, premium must be VIP
+- [Fmovies](https://ww4.fmovies.co/24/)
 - [F2](https://www6.f2movies.to/)
-- [Hurawatch](https://hurawatch.at/home)
-- [Filmxy](https://www.filmxy.vip/) Here you must login with your google account, but so far seems secure.
+- [Hurawatch](https://hurawatchz.tv)
 
 - []()
 
