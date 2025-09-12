@@ -279,7 +279,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Instructables](https://www.instructables.com/) Guide on how to build DIY stuff
 - [WordClouds](https://wordclouds.com) Create collages of words, really cool
 
--[Time Zone Converter](https://dateful.com/time-zone-converter) ⭐
+- [Time Zone Converter](https://dateful.com/time-zone-converter) ⭐
 
 - [VideoDownloader](https://www.locoloader.com/)
 - [VideoDownloader](https://co.wukko.me/)
