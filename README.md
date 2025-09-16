@@ -129,7 +129,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 ### Pc
 
-- [GetIntoPc](https://getintopc.com/)⭐ INHO the best site for downloading every kind of premium pc app for free
+- [GetIntoPc](https://getintopc.com/)⭐ IMHO the best site for downloading every kind of premium pc app for free
 - [OceanOfGames](https://oceansofgamess.com/)⭐ Same thing as GetIntoPc but for all kind of games
 - [FileCr](https://filecr.com/en/?id=96126488640") Both Android and Windows apps
 - [1337xGames](https://www.1377x.to/popular-games) 1337x torrents for Games
