@@ -101,9 +101,9 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
   
 ### Sports 
-
+- [TotalSportTech](https://live3.totalsportek007.com/)
+- [NBAstreams](https://nba-stream.com)
 - [VipRow](https://www.viprow.nu) now always working but still pretty good (USE VPN IF IN ITALY)
-- [SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming
 - [SportsBay](https://www.sportsbay.dk/) All kind of sports here and multiple lenguages as wel 
 - [F1Stream](https://live.f1stream.me/) Streaming site for reces 
 - [SoccerStream](https://reddit2.soccerstreamlinks.com) Mirror sito to Weakstreams
