@@ -102,41 +102,28 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
   
 ### Sports 
 
-- [VipRow](https://en.viprow.me/) now always working but still pretty good 
+- [VipRow](https://www.viprow.nu) now always working but still pretty good (USE VPN IF IN ITALY)
 - [SoccerStream](https://main.soccerstreams-100.tv/) ⭐ I personaly think this is one the best option for streaming
-- [SportsBay](https://www.sportsbay.sx/) All kind of sports here and multiple lenguages as wel 
+- [SportsBay](https://www.sportsbay.dk/) All kind of sports here and multiple lenguages as wel 
 - [F1Stream](https://live.f1stream.me/) Streaming site for reces 
 - [SoccerStream](https://reddit2.soccerstreamlinks.com) Mirror sito to Weakstreams
-- [FootyBite](https://live10.footybite.cc/)
-- [StreamGoTo](https://streamgoto.me/a/) An alternative for Weakstreams 
-- [ProjectLive](https://projectlive.info/) ⭐ Also itlian commentary here 
-- [TezGoal](https://tezgoal.com/menu-tezgoal/sports/football/) It was the best one but it appears to be down, leaving the link here in case it starts working again 
+- [FootyBite](https://live.footybite.is/)
 - [Raceday](https://raceday.watch/#sessions)
-- [StarLive](https://starlive.xyz/)⭐ 
 - [123Streamscar](https://dd12streams.com/schedule)
 - [Olesport](https://olesport.live/)
-- [Buffstreams](https://buffstreams.sx/)
-- [KoraKoora](https://kora.koora.live) Arabic commentary 
 - [ScoreActive](http://www.scoreactive.com/)
-- [Dzeko11](https://dzeko11.net/)
-- [Skystreaming](https://skystreaming.tw/)⭐ 
 - [SportsHub](https://sportshub.stream/)
-- [DaddyLive](https://daddylivehd.sx/) ⭐ Very good quality and almost no lag
-- [CricHd](https://www.crichd.live/home27)
+- [DaddyLive](https://www.daddylivehd1.my/) ⭐ Very good quality and almost no lag
 - [MolaTv](https://mola.tv)
-- [LatifiStreams](https://www.latifistreams.com/) Racing
+- [Wearechecking](https://wearechecking.online/) Racing, football and other stuff
+- [F1Box](https://f1box.me/)
 - [DD12](https://dd12streams.com/schedule) Racing Schedule
-- [Aceztrims](https://aceztrims.netlify.app/) Racing Schedule
-- [RainoStreams](http://rainostreams.com)⭐
+- [Aceztrims](https://aceztrims.pages.dev/05/) Racing Schedule
 - [Raceday](https://raceday.watch/)
-- [CalcioStreaming](https://www.calciostreaming.today/) Serie B can be watched here
-- [CalcioSport](https://sportzone.today/) Serie C included
-- [Calcio.Re](https://calcio.re/) ⭐ One of the best sites with italian commentary and almost zero lag
-- [Skystreaming](https://skystreaming.today/) Sometimes it can be laggy 
-- [Nopay](https://nopay2.info/)
-- [ATDHE](https://atdheeu.com/) Lots of sports, to be tested yet
-- [TV96](https://en.tv96.cc/) Arabic but nice
-
+- [Xstreams](https://xstreameast.com)
+- [BitStreams](https://bitstreams.live/#)
+- [BitStreams](https://bitstreams.top/)
+- [SportSurge](https://sportsurge.bz/)
 
 ## Games/Apks/Softwares for Free
 
@@ -162,7 +149,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [ModCombo](modcombo.com)⭐
 - [ApkHub](https://apkmodhub.in)
 - [SoftArchive](https://sanet.st)
-- [ApkMody](https://apkmody.io
+- [ApkMody](https://apkmody.io)
 - [LuckyPatcher](https://www.luckypatchers.com/download/)
 - [SkidRowgames](https://skidrowrepacks.com/)
 - [Search](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0) This is a search engine for apks 
