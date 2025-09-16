@@ -133,9 +133,9 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [OceanOfGames](https://oceansofgamess.com/)⭐ Same thing as GetIntoPc but for all kind of games
 - [FileCr](https://filecr.com/en/?id=96126488640") Both Android and Windows apps
 - [1337xGames](https://www.1377x.to/popular-games) 1337x torrents for Games
-- [FitGirl](https://fitgirl-repacks.site/) Games repacked in small size
+- [FitGirl](https://fitgirl-repacks.site/) Games repacked in small size (USE VPN)
 - [CrackWatch](https://www.reddit.com/r/CrackWatch/) Subreddit for Fitgirl releases
-- [Monkrus](https://w14.monkrus.ws/)⭐ Best site for Adobe suite
+- [Monkrus](https://t.me/m0nkrus)⭐ Best site for Adobe suite
 
 
 
@@ -143,26 +143,25 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 
 - [ApkMirror](https://www.apkmirror.com/) Games and apps cracked ⭐
 - [ApkFab](https://apkfab.com/)
-- [ModdingUnited](https://moddingunited.xyz/)⭐
+- [ModdingUnited](https://worldmak.com/)⭐
 - [ApkCombo](https://apkcombo.com/)
 - [FTUApps](https://ftuapps.dev/?1)
-- [ModCombo](modcombo.com)⭐
+- [ModCombo](https://modcombo.com/)⭐
 - [ApkHub](https://apkmodhub.in)
-- [SoftArchive](https://sanet.st)
 - [ApkMody](https://apkmody.io)
 - [LuckyPatcher](https://www.luckypatchers.com/download/)
 - [SkidRowgames](https://skidrowrepacks.com/)
 - [Search](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0) This is a search engine for apks 
 - [Search 2](https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0) Same as the one before 
 - [ApkExtractor](https://play.google.com/store/apps/details?id=com.ext.ui) Some apks need this app in order to run 
-- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) ⭐ My drive shared folder for Revanced, Spotify and other stuff 
+- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) ⭐ My drive shared folder for Revanced, Spotify and other stuff (UPDATE IN PROGRESS
 
 
 
 ### IOS
 
 - [READ THIS IF IT'S YOUR FIRST TIME CRACKING AN APP ON IOS](https://telegra.ph/How-to-Install-Spotify-Premium-App-on-IOS-11-17)⭐⭐
-- [julio](https://julio.hackyouriphone.org/)
+- [julio](https://julioverne.github.io/)
 - [Altstore](https://altstore.io/)
 - [Cydiageek](https://cydiageek.yourepo.com/)
 
@@ -177,23 +176,30 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
   
 ## Hacking
 
-- [Nulled.to](nulled.to) Accounts and other tech stuff⭐
-- [Cracked](cracked.io) Same as Nulled
 - [Nsae](https://nsaneforums.com) Apps and other 
 - [MAS](https://massgrave.dev/) Windows and Office activation tools⭐
 - [Hackgames](https://guidedhacking.com/)
+- [LeakForum](https://leakforum.io/)
+- [Crackings](https://crackings.one/)
+
 
 
 
 ## Music 
 
--[SliderKz](https://slider.kz) Download singe mp3 files
+- [SliderKz](https://slider.kz) Download singe mp3 files
+- [Rockdownload](https://www.rockdownload.org) Download Rock Music
+- [MetalTracker](https://en.metal-tracker.com/)
+- [RockVintage](https://www.progrockvintage.com/)
+- [RockCovers](https://www.classic-rock-covers.com/)
+- [Obscure90sMusic](https://www.youtube.com/@Dreamofthe90s/playlists)
+
 
  
  
 ## Learning
 
-- [GigaCourse](https://gigacourse.com/?1)
+- [GigaCourse](https://www.gigacourses.com/)
 - [Hackr.io](https://hackr.io)
 - [Freecodecamp](https://www.freecodecamp.org)
 - [Freecourseudemy](https://freecourseudemy.com/)
@@ -201,6 +207,13 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Typelit](https://www.typelit.io/)
 - [Typingstudy](https://www.typingstudy.com/lesson)
 - [Monkeytype](https://monkeytype.com/)
+- [TutFlix](https://tutflix.org/)
+- [Educational Channels](https://limnology.co)
+- [AwesomeCourses](https://github.com/prakhar1989/awesome-courses/)
+- [hacksnation](https://hacksnation.com/)
+- [tut4it](https://tut4it.com/)
+- [Guidehacking](https://guidedhacking.com/)
+- [FreeCoursesite](https://fcsnew.net/)
 
 
 
