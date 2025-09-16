@@ -154,7 +154,7 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [Search](https://cse.google.com/cse?cx=e0d1769ccf74236e8#gsc.tab=0) This is a search engine for apks 
 - [Search 2](https://cse.google.com/cse?cx=73948689c2c206528#gsc.tab=0) Same as the one before 
 - [ApkExtractor](https://play.google.com/store/apps/details?id=com.ext.ui) Some apks need this app in order to run 
-- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) ⭐ My drive shared folder for Revanced, Spotify and other stuff (UPDATE IN PROGRESS
+- [Drive](https://drive.google.com/drive/u/0/folders/1RQEgvaYg5ZJq0HqcPy2vTtnIzXEZ6_73) ⭐ My drive shared folder for Revanced, Spotify and other stuff (UPDATE IN PROGRESS)
 
 
 
