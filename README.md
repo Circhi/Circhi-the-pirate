@@ -294,7 +294,6 @@ So no more talking now, enjoy this one big guide and I hope you will learn lots 
 - [FavoriteMusic](https://favoritemusic.guru/)
 - [Obscurify](https://www.obscurifymusic.com/home) How obscure is your music??
 
- <li> bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)</li>
  
  
     
